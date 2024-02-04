@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 import random
 
 tokenizer = Tokenizer()
-nGrams = NGramModel(3, 'i')
+nGrams = NGramModel(3, 'g')
 with open('./data/PrideandPrejudice.txt', 'r', encoding='utf8') as file:
 # with open('./data/Ulysses.txt', 'r', encoding='utf8') as file:
     text = file.read() 
@@ -25,5 +25,5 @@ nGrams.fit(tokenized)
 #     tokens.append(newToken)
 #     print(tokens[-1], end=' ')
 if __name__ == "__main__":
-    print("Test set perplexity : ", nGrams.perplexity(testSet))
+    # print("Test set perplexity : ", nGrams.perplexity(testSet))
     print("Train set perplexity : ", nGrams.perplexity(tokenized))
