@@ -25,10 +25,11 @@ class LinearInterpolation:
 
     def getProbability(self, nGram):
         prob = 0
-        for i in range(self.n - 1):
-            if nGram[i:] not in self.nGramsProbList[len(nGram[i:]) - 1]:
+        for i in range(self.n - len(nGram), self.n - 1):
+            j = i - (self.n - len(nGram))
+            if nGram[j:] not in self.nGramsProbList[len(nGram[j:]) - 1]:
                 continue
-            prob += self.weights[i] * self.nGramsProbList[len(nGram[i:]) - 1][nGram[i:]]
-        if nGram[-1:] in self.nGramsProbList[len(nGram[i:]) - 1]:
+            prob += self.weights[i] * self.nGramsProbList[len(nGram[j:]) - 1][nGram[j:]]
+        if nGram[-1:] in self.nGramsProbList[len(nGram[-1:]) - 1]:
             prob += self.weights[-1] * self.nGramsProbList[0][nGram[-1:]]
         return prob

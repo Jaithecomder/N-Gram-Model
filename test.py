@@ -4,12 +4,13 @@ from sklearn.model_selection import train_test_split
 import random
 
 tokenizer = Tokenizer()
-nGrams = NGramModel(3, 'l')
-with open('./data/PrideandPrejudice.txt', 'r') as file:  
+nGrams = NGramModel(3, 'i')
+with open('./data/PrideandPrejudice.txt', 'r', encoding='utf8') as file:
+# with open('./data/Ulysses.txt', 'r', encoding='utf8') as file:
     text = file.read() 
 tokenized = tokenizer.tokenize(text)
 
-tokenized, testSet = train_test_split(tokenized, test_size=1000/len(tokenized), random_state=0)
+tokenized, testSet = train_test_split(tokenized, test_size=1000/len(tokenized), random_state=29)
 nGrams.fit(tokenized)
 
 # tokens = ['It', 'is']

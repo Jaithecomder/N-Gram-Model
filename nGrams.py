@@ -45,27 +45,25 @@ class NGramModel:
         for i in range(0, self.n - 1):
             nGramSumList.append({})
 
-        for i in range(0, self.n):
+        for i in range(1, self.n):
             for nGram in nGramsDictList[i]:
-                if len(nGram) == 1:
-                    continue
                 if nGram[:-1] not in nGramSumList[len(nGram) - 2]:
                     nGramSumList[len(nGram) - 2][nGram[:-1]] = 0
                 nGramSumList[len(nGram) - 2][nGram[:-1]] += nGramsDictList[len(nGram) - 1][nGram]
 
-        for i in range(0, self.n):
+        for nGram in nGramsDictList[0]:
+            nGramsProbList[0][nGram] = nGramsDictList[0][nGram] / self.corpusSize
+
+        for i in range(1, self.n):
             for nGram in nGramsDictList[i]:
-                if len(nGram) == 1:
-                    nGramsProbList[0][nGram] = nGramsDictList[0][nGram] / self.corpusSize
-                    continue
                 nGramsProbList[len(nGram) - 1][nGram] = nGramsDictList[len(nGram) - 1][nGram] / nGramSumList[len(nGram) - 2][nGram[:-1]]
         return nGramsProbList
     
     def getProbability(self, nGram):
-        if self.fn == 'l':
+        if self.fn == 'i':
             prob = self.linInt.getProbability(nGram)
             if prob == 0:
-                prob = 1e-5
+                prob = 1e-8
             return prob
         
         if nGram in self.nGramsDictList:
@@ -107,7 +105,8 @@ class NGramModel:
         if self.fn == 'g':
             self.nGramsDictList = self.goodTuring()
         self.nGramsProbList = self.computeProbability(self.nGramsDictList)
-        if self.fn == 'l':
+        # print(min([min(self.nGramsProbList[i].values()) for i in range(self.n)]))
+        if self.fn == 'i':
             self.linInt = LinearInterpolation(self.nGramsDictList, self.nGramsProbList, self.corpusSize, self.n)
             self.linInt.learnWeights()
 
@@ -132,12 +131,12 @@ class NGramModel:
         procs = 4
         testSet = [testSet[i * numSentences // procs: (i + 1) * numSentences // procs] for i in range(procs)]
         perplexity = []
-        with ProcessPoolExecutor(max_workers=procs) as executor:
-            futures = {executor.submit(self.getPerplexity, sentenceSet): sentenceSet for sentenceSet in testSet}
-            for future in as_completed(futures):
-                perplexity.append(future.result())
-        # for sentenceSet in testSet:
-        #     perplexity.append(self.getPerplexity(sentenceSet))
+        # with ProcessPoolExecutor(max_workers=procs) as executor:
+        #     futures = {executor.submit(self.getPerplexity, sentenceSet): sentenceSet for sentenceSet in testSet}
+        #     for future in as_completed(futures):
+        #         perplexity.append(future.result())
+        for sentenceSet in testSet:
+            perplexity.append(self.getPerplexity(sentenceSet))
         return sum(perplexity) / numSentences
     
     def getPerplexity(self, sentenceSet):
@@ -150,8 +149,6 @@ class NGramModel:
                 if len(nList) == self.n + 1:
                     nList.pop(0)
                 logProb += np.log(self.getProbability(tuple(nList)))
-            # if prob == 0:
-            #     prob = 1e-10
             prob = np.exp(logProb)
             if prob == 0:
                 prob = 1e-10
