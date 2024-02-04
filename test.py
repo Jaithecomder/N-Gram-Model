@@ -1,4 +1,4 @@
-from tokenizer import Tokenizer
+from tokens import Tokenizer
 from nGrams import NGramModel
 from sklearn.model_selection import train_test_split
 
@@ -24,5 +24,5 @@ nGrams.fit(tokenized)
 #     tokens.append(newToken)
 #     print(tokens[-1], end=' ')
 if __name__ == "__main__":
-    print("Test set perplexity : ", nGrams.perplexity(testSet))
+    # print("Test set perplexity : ", nGrams.perplexity(testSet))
     print("Train set perplexity : ", nGrams.perplexity(tokenized))
