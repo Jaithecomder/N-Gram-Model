@@ -9,8 +9,6 @@ class GoodTuring:
     def getNr(self):
         freqDict = {}
         for nGram in self.nGramsDict:
-            if len(nGram) != self.n:
-                continue
             freq = self.nGramsDict[nGram]
             if freq in freqDict:
                 freqDict[freq] += 1
@@ -44,7 +42,6 @@ class GoodTuring:
 
     def getAdjustedFreq(self, Nr):
         adjustedFreq = np.zeros(len(Nr))
-        # adjustedFreq[0] = Nr[0]
         for i in range(1, len(Nr)):
             if Nr[i] == 0:
                 continue

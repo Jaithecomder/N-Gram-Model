@@ -52,11 +52,23 @@ class NGramModel:
                 nGramSumList[len(nGram) - 2][nGram[:-1]] += nGramsDictList[len(nGram) - 1][nGram]
 
         for nGram in nGramsDictList[0]:
-            nGramsProbList[0][nGram] = nGramsDictList[0][nGram] / self.corpusSize
+            denm = self.corpusSize
+            if self.fn == 'g':
+                denm += self.zeroCounts[0]
+            nGramsProbList[0][nGram] = nGramsDictList[0][nGram] / denm
 
         for i in range(1, self.n):
             for nGram in nGramsDictList[i]:
-                nGramsProbList[len(nGram) - 1][nGram] = nGramsDictList[len(nGram) - 1][nGram] / nGramSumList[len(nGram) - 2][nGram[:-1]]
+                denm = nGramSumList[len(nGram) - 2][nGram[:-1]]
+                if self.fn == 'g':
+                    denm += self.zeroCounts[i]
+                nGramsProbList[len(nGram) - 1][nGram] = nGramsDictList[len(nGram) - 1][nGram] / denm
+        if self.fn == 'g':
+            nGramsProbList[0]['<0>'] = self.zeroCounts[0] / (self.corpusSize + self.zeroCounts[0])
+            for i in range(0, self.n - 1):
+                for nM1Gram in nGramSumList[i]:
+                    denm = nGramSumList[i][nM1Gram] + self.zeroCounts[i + 1]
+                    nGramsProbList[i + 1][nM1Gram + ('<0>',)] = self.zeroCounts[i + 1] / denm
         return nGramsProbList
     
     def getProbability(self, nGram):
@@ -65,9 +77,16 @@ class NGramModel:
             if prob == 0:
                 prob = 1e-8
             return prob
+
+        if nGram in self.nGramsDictList[len(nGram) - 1]:
+            return self.nGramsProbList[len(nGram) - 1][nGram]
         
-        if nGram in self.nGramsDictList:
-            return self.nGramsProbList[nGram]
+        print('no')
+        
+        # if nGram[:-1] in self.nGramsDictList:
+        #     return self.nGramsProbList[len(nGram) - 1][nGram[:-1] + ('<0>',)]
+        
+        return 1e-8
 
         if len(nGram) == 1:
             return 1e-10
@@ -90,20 +109,22 @@ class NGramModel:
         return 1e-5
 
     def goodTuring(self):
-        nGramsDictNew = {}
+        self.zeroCounts = []
         for i in range(1, self.n + 1):
+            nGramsDictNew = {}
             gt = GoodTuring(i, self.nGramsDictList[i-1])
             newFreq = gt.newFreq()
             for nGram in self.nGramsDictList[i-1]:
                 nGramsDictNew[nGram] = newFreq[self.nGramsDictList[i-1][nGram]]
-            self.nGramsDictList[i-1] = nGramsDictNew       
+            self.zeroCounts.append(newFreq[0])
+            self.nGramsDictList[i-1] = nGramsDictNew
     
     def fit(self, text):
         self.corpusSize = sum([len(sentence) for sentence in text])
         self.vocab = self.getVocab(text)
         self.nGramsDictList = self.getFrequency(text)
         if self.fn == 'g':
-            self.nGramsDictList = self.goodTuring()
+            self.goodTuring()
         self.nGramsProbList = self.computeProbability(self.nGramsDictList)
         # print(min([min(self.nGramsProbList[i].values()) for i in range(self.n)]))
         if self.fn == 'i':
