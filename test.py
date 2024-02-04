@@ -1,4 +1,4 @@
-from tokens import Tokenizer
+from tokenizer import Tokenizer
 from nGrams import NGramModel
 from sklearn.model_selection import train_test_split
 
