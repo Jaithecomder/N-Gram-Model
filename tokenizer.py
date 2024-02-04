@@ -60,3 +60,9 @@ class Tokenizer:
                 tokenizedSentence.append('</s>')
                 tokenizedText.append(tokenizedSentence)
         return tokenizedText
+    
+if __name__ == "__main__":
+    tokenizer = Tokenizer()
+    text = input("your text: ")
+    tokenized = tokenizer.tokenize(text)
+    print("tokenized text: ", tokenized)

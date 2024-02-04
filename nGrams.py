@@ -175,3 +175,13 @@ class NGramModel:
                 prob = 1e-10
             perpSum += prob ** (-1/len(sentence))
         return perpSum
+    
+    def getSentenceScore(self, sentence):
+        nList = []
+        logProb = 0
+        for word in sentence:
+            nList.append(word)
+            if len(nList) == self.n + 1:
+                nList.pop(0)
+            logProb += np.log(self.getProbability(tuple(nList)))
+        return np.exp(logProb)
