@@ -4,14 +4,12 @@ from sklearn.model_selection import train_test_split
 import random
 
 tokenizer = Tokenizer()
-nGrams = NGramModel(3, 'g')
-# text = '''Is that what you mean?? <> ab.bc <URL> I am unsure what you mean. www@www.com https://www.dsfsd.com/d._jaflkja#lkdsa12376178246587jlkajs@slkadjlaksjd/oki.html
-# 1231213.123124242 100,000'''
+nGrams = NGramModel(3, 'l')
 with open('./data/PrideandPrejudice.txt', 'r') as file:  
     text = file.read() 
 tokenized = tokenizer.tokenize(text)
 
-tokenized, testSet = train_test_split(tokenized, test_size=1000/len(tokenized), random_state=29)
+tokenized, testSet = train_test_split(tokenized, test_size=1000/len(tokenized), random_state=0)
 nGrams.fit(tokenized)
 
 # tokens = ['It', 'is']
@@ -26,5 +24,5 @@ nGrams.fit(tokenized)
 #     tokens.append(newToken)
 #     print(tokens[-1], end=' ')
 if __name__ == "__main__":
-    print(nGrams.perplexity(testSet))
-    print(nGrams.perplexity(tokenized))
+    print("Test set perplexity : ", nGrams.perplexity(testSet))
+    print("Train set perplexity : ", nGrams.perplexity(tokenized))

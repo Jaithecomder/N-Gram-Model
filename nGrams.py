@@ -8,7 +8,7 @@ class NGramModel:
     def __init__(self, n=3, fn='g'):
         self.n = n
         self.fn = fn
-        self.nGramsDict = {}
+        self.nGramsDictList = {}
         self.linInt = None
 
     def getVocab(self, text):
@@ -19,7 +19,9 @@ class NGramModel:
         return vocab
     
     def getFrequency(self, text):
-        nGramsDict = {}
+        freqList = []
+        for i in range(0, self.n):
+            freqList.append({})
         nList = []
         for sentence in text:
             for word in sentence:
@@ -28,101 +30,102 @@ class NGramModel:
                     nList.pop(0)
                 for i in range(len(nList)):
                     nGram = tuple(nList[i:])
-                    if nGram in nGramsDict:
-                        nGramsDict[nGram] += 1
+                    if nGram in freqList[len(nGram) - 1]:
+                        freqList[len(nGram) - 1][nGram] += 1
                     else:
-                        nGramsDict[nGram] = 1
-        return nGramsDict
+                        freqList[len(nGram) - 1][nGram] = 1
+        return freqList
     
-    def computeProbability(self, nGramsDict):
-        nGramsProb = {}
-        nGramSum = {}
-        for nGram in nGramsDict:
-            if type(nGram) == int:
-                continue
-            if nGram[:-1] not in nGramSum:
-                nGramSum[nGram[:-1]] = 0
-            nGramSum[nGram[:-1]] += nGramsDict[nGram]
-        for nGram in nGramsDict:
-            if type(nGram) == int:
-                if nGram == 1:
-                    nGramsProb[nGram] = nGramsDict[nGram] / self.corpusSize
-                continue
-            if len(nGram) == 1:
-                nGramsProb[nGram] = nGramsDict[nGram] / self.corpusSize
-            nGramsProb[nGram] = nGramsDict[nGram] / nGramSum[nGram[:-1]]
-        return nGramsProb
+    def computeProbability(self, nGramsDictList):
+        nGramsProbList = []
+        nGramSumList = []
+        for i in range(0, self.n):
+            nGramsProbList.append({})
+
+        for i in range(0, self.n - 1):
+            nGramSumList.append({})
+
+        for i in range(0, self.n):
+            for nGram in nGramsDictList[i]:
+                if len(nGram) == 1:
+                    continue
+                if nGram[:-1] not in nGramSumList[len(nGram) - 2]:
+                    nGramSumList[len(nGram) - 2][nGram[:-1]] = 0
+                nGramSumList[len(nGram) - 2][nGram[:-1]] += nGramsDictList[len(nGram) - 1][nGram]
+
+        for i in range(0, self.n):
+            for nGram in nGramsDictList[i]:
+                if len(nGram) == 1:
+                    nGramsProbList[0][nGram] = nGramsDictList[0][nGram] / self.corpusSize
+                    continue
+                nGramsProbList[len(nGram) - 1][nGram] = nGramsDictList[len(nGram) - 1][nGram] / nGramSumList[len(nGram) - 2][nGram[:-1]]
+        return nGramsProbList
     
     def getProbability(self, nGram):
         if self.fn == 'l':
             prob = self.linInt.getProbability(nGram)
             if prob == 0:
-                prob = 1e-10
+                prob = 1e-5
             return prob
         
-        if nGram in self.nGramsDict:
-            return self.nGramsProb[nGram]
+        if nGram in self.nGramsDictList:
+            return self.nGramsProbList[nGram]
 
         if len(nGram) == 1:
-            return 1e-5
+            return 1e-10
         
-        if nGram[-1:] not in self.nGramsDict:
-            return 1e-5
+        if nGram[-1:] not in self.nGramsDictList:
+            return 1e-10
         
-        if nGram[:-1] not in self.nGramsDict:
-            return self.nGramsProb[nGram[-1:]]
+        if nGram[:-1] not in self.nGramsDictList:
+            return self.nGramsProbList[nGram[-1:]]
         
-        if nGram[:-1] in self.nGramsDict:
+        if nGram[:-1] in self.nGramsDictList:
             nSum = 0
-            for nGramKey in self.nGramsDict:
+            for nGramKey in self.nGramsDictList:
                 if type(nGramKey) == int:
                     continue
                 if nGramKey[:-1] == tuple(nGram[:-1]):
-                    nSum += self.nGramsDict[nGramKey]
-            return self.nGramsDict[len(nGram)] / nSum
+                    nSum += self.nGramsDictList[nGramKey]
+            return self.nGramsDictList[len(nGram)] / nSum
 
         return 1e-5
 
-    def goodTuring(self, nGramsDict):
+    def goodTuring(self):
         nGramsDictNew = {}
         for i in range(1, self.n + 1):
-            gt = GoodTuring(i, nGramsDict)
+            gt = GoodTuring(i, self.nGramsDictList[i-1])
             newFreq = gt.newFreq()
-            for nGram in nGramsDict:
-                if len(nGram) != i:
-                    continue
-                nGramsDictNew[nGram] = newFreq[nGramsDict[nGram]]
-            for i in range(1, self.n + 1):
-                if i not in nGramsDictNew:
-                    nGramsDictNew[i] = newFreq[0]
-        return nGramsDictNew        
+            for nGram in self.nGramsDictList[i-1]:
+                nGramsDictNew[nGram] = newFreq[self.nGramsDictList[i-1][nGram]]
+            self.nGramsDictList[i-1] = nGramsDictNew       
     
     def fit(self, text):
         self.corpusSize = sum([len(sentence) for sentence in text])
         self.vocab = self.getVocab(text)
-        self.nGramsDict = self.getFrequency(text)
+        self.nGramsDictList = self.getFrequency(text)
         if self.fn == 'g':
-            self.nGramsDict = self.goodTuring(self.nGramsDict)
-        self.nGramsProb = self.computeProbability(self.nGramsDict)
+            self.nGramsDictList = self.goodTuring()
+        self.nGramsProbList = self.computeProbability(self.nGramsDictList)
         if self.fn == 'l':
-            self.linInt = LinearInterpolation(self.nGramsDict, self.nGramsProb, self.corpusSize, self.n)
+            self.linInt = LinearInterpolation(self.nGramsDictList, self.nGramsProbList, self.corpusSize, self.n)
             self.linInt.learnWeights()
 
-    def generate(self, tokens):
-        lastNM1Gram = tuple(tokens[-(self.n-1):])
-        if lastNM1Gram not in self.nGramsDict:
-            return None
-        nGramsProb = self.getProbability(self.nGramsDict, lastNM1Gram)
-        cumProb = 0
-        predWord = ''
-        rand = random.random()
-        for nGram in nGramsProb:
-            if nGram[:-1] == lastNM1Gram:
-                cumProb += nGramsProb[nGram]
-                if cumProb >= rand:
-                    predWord = nGram[-1]
-                    break
-        return predWord
+    # def generate(self, tokens):
+    #     lastNM1Gram = tuple(tokens[-(self.n-1):])
+    #     if lastNM1Gram not in self.nGramsDictList:
+    #         return None
+    #     nGramsProbList = self.getProbability(self.nGramsDictList, lastNM1Gram)
+    #     cumProb = 0
+    #     predWord = ''
+    #     rand = random.random()
+    #     for nGram in nGramsProbList:
+    #         if nGram[:-1] == lastNM1Gram:
+    #             cumProb += nGramsProbList[nGram]
+    #             if cumProb >= rand:
+    #                 predWord = nGram[-1]
+    #                 break
+    #     return predWord
     
     def perplexity(self, testSet):
         numSentences = len(testSet)
@@ -151,6 +154,6 @@ class NGramModel:
             #     prob = 1e-10
             prob = np.exp(logProb)
             if prob == 0:
-                prob = 1e-5
+                prob = 1e-10
             perpSum += prob ** (-1/len(sentence))
         return perpSum
