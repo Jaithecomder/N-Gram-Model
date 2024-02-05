@@ -3,7 +3,7 @@ from nGrams import NGramModel
 from sklearn.model_selection import train_test_split
 
 tokenizer = Tokenizer()
-nGrams = NGramModel(3, 'i')
+nGrams = NGramModel(5, 'i')
 # with open('./data/PrideandPrejudice.txt', 'r', encoding='utf8') as file:
 with open('./data/Ulysses.txt', 'r', encoding='utf8') as file:
     text = file.read() 

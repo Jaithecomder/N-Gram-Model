@@ -13,7 +13,7 @@ tokenizedP = tokenizer.tokenize(textP)
 tokenizedU = tokenizer.tokenize(textU)
 
 trainSetP, testSetP = train_test_split(tokenizedP, test_size=1000/len(tokenizedP), random_state=29)
-trainSetU, testSetU = train_test_split(tokenizedP, test_size=1000/len(tokenizedU), random_state=29)
+trainSetU, testSetU = train_test_split(tokenizedU, test_size=1000/len(tokenizedU), random_state=29)
 
 start = './2021111029_'
 end = '.pkl'
@@ -56,49 +56,49 @@ else:
 
 if __name__ == "__main__":
     avgPerp, sentencePerp = LM1.perplexity(trainSetP)
-    with open('2021111029_LM1_train-perplexity.txt', 'w') as file:
+    with open('2021111029_LM1_train-perplexity.txt', 'w', encoding='utf8') as file:
         file.write(str(avgPerp) + "\n")
         for i in sentencePerp.keys():
             file.write(i + "\t" + str(sentencePerp[i]) + "\n")
 
     avgPerp, sentencePerp = LM1.perplexity(testSetP)
-    with open('2021111029_LM1_test-perplexity.txt', 'w') as file:
+    with open('2021111029_LM1_test-perplexity.txt', 'w', encoding='utf8') as file:
         file.write(str(avgPerp) + "\n")
         for i in sentencePerp.keys():
             file.write(i + "\t" + str(sentencePerp[i]) + "\n")
 
     avgPerp, sentencePerp = LM2.perplexity(trainSetP)
-    with open('2021111029_LM2_train-perplexity.txt', 'w') as file:
+    with open('2021111029_LM2_train-perplexity.txt', 'w', encoding='utf8') as file:
         file.write(str(avgPerp) + "\n")
         for i in sentencePerp.keys():
             file.write(i + "\t" + str(sentencePerp[i]) + "\n")
 
     avgPerp, sentencePerp = LM2.perplexity(testSetP)
-    with open('2021111029_LM2_test-perplexity.txt', 'w') as file:
+    with open('2021111029_LM2_test-perplexity.txt', 'w', encoding='utf8') as file:
         file.write(str(avgPerp) + "\n")
         for i in sentencePerp.keys():
             file.write(i + "\t" + str(sentencePerp[i]) + "\n")
 
     avgPerp, sentencePerp = LM3.perplexity(trainSetU)
-    with open('2021111029_LM3_train-perplexity.txt', 'w') as file:
+    with open('2021111029_LM3_train-perplexity.txt', 'w', encoding='utf8') as file:
         file.write(str(avgPerp) + "\n")
         for i in sentencePerp.keys():
             file.write(i + "\t" + str(sentencePerp[i]) + "\n")
 
     avgPerp, sentencePerp = LM3.perplexity(testSetU)
-    with open('2021111029_LM3_test-perplexity.txt', 'w') as file:
+    with open('2021111029_LM3_test-perplexity.txt', 'w', encoding='utf8') as file:
         file.write(str(avgPerp) + "\n")
         for i in sentencePerp.keys():
             file.write(i + "\t" + str(sentencePerp[i]) + "\n")
             
     avgPerp, sentencePerp = LM4.perplexity(trainSetU)
-    with open('2021111029_LM4_train-perplexity.txt', 'w') as file:
+    with open('2021111029_LM4_train-perplexity.txt', 'w', encoding='utf8') as file:
         file.write(str(avgPerp) + "\n")
         for i in sentencePerp.keys():
             file.write(i + "\t" + str(sentencePerp[i]) + "\n")
 
     avgPerp, sentencePerp = LM4.perplexity(testSetU)
-    with open('2021111029_LM4_test-perplexity.txt', 'w') as file:
+    with open('2021111029_LM4_test-perplexity.txt', 'w', encoding='utf8') as file:
         file.write(str(avgPerp) + "\n")
         for i in sentencePerp.keys():
             file.write(i + "\t" + str(sentencePerp[i]) + "\n")

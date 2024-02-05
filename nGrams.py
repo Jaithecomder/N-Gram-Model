@@ -42,17 +42,21 @@ class NGramModel:
     def computeProbability(self, nGramsDictList):
         nGramsProbList = []
         nGramSumList = []
+        nGramsCountList = []
         for i in range(0, self.n):
             nGramsProbList.append({})
 
         for i in range(0, self.n - 1):
             nGramSumList.append({})
+            nGramsCountList.append({})
 
         for i in range(1, self.n):
             for nGram in nGramsDictList[i]:
                 if nGram[:-1] not in nGramSumList[len(nGram) - 2]:
                     nGramSumList[len(nGram) - 2][nGram[:-1]] = 0
+                    nGramsCountList[len(nGram) - 2][nGram[:-1]] = 0
                 nGramSumList[len(nGram) - 2][nGram[:-1]] += nGramsDictList[len(nGram) - 1][nGram]
+                nGramsCountList[len(nGram) - 2][nGram[:-1]] += 1
 
         for nGram in nGramsDictList[0]:
             denm = self.corpusSize
@@ -71,6 +75,7 @@ class NGramModel:
             for i in range(0, self.n - 1):
                 for nM1Gram in nGramSumList[i]:
                     denm = nGramSumList[i][nM1Gram] + self.zeroCounts[i + 1]
+                    denm *= len(self.vocab) - nGramsCountList[i][nM1Gram]
                     nGramsProbList[i + 1][nM1Gram + ('<0>',)] = (self.zeroCounts[i + 1] / denm)
         return nGramsProbList
     

@@ -146,7 +146,7 @@
 <s> " If one could but go to Brighton ! </s>	11.583941069570903
 <s> Could you expect me to rejoice in the inferiority of your connections ? </s>	14.058793798924484
 <s> Anne would have been a delightful performer , had her health allowed her to learn . </s>	13.07159572737472
-<s> The next morning , however , made an alteration ; for in a quarter of an hour ' s tête - à - tête with Mrs . </s>	8.914293736696978
+<s> The next morning , however , made an alteration ; for in a quarter of an hour ' s tÃªte - Ã  - tÃªte with Mrs . </s>	8.914293736696978
 <s> Lady Catherine approached , and , after listening for a few minutes , said to Darcy , " Miss Bennet would not play at all amiss , if she practised more , and could have the advantage of a London master . </s>	12.616817001238308
 <s> " " She will drop the acquaintance entirely . </s>	10.399113667089518
 <s> Mrs . </s>	13.551260346815916
@@ -1436,7 +1436,7 @@
 <s> A man of honour could not have doubted the intention , but Mr . </s>	12.402025830141598
 <s> As long as she stays there , it is all very well . </s>	14.727495141937037
 <s> it cannot be . </s>	19.57125564051473
-<s> Yet time and her aunt moved slowly - - and her patience and her ideas were nearly worn out before the tête - à - tête was over . </s>	8.377964572676317
+<s> Yet time and her aunt moved slowly - - and her patience and her ideas were nearly worn out before the tÃªte - Ã  - tÃªte was over . </s>	8.377964572676317
 <s> Well , well , I only hope it will last . </s>	15.390870319190267
 <s> I have not been at all able to account for the honour of seeing you here . </s>	13.988355185106178
 <s> Jane , " cried Elizabeth , " was there a servant belonging to it , who did not know the whole story before the end of the day ? </s>	13.30262003320906
@@ -1980,7 +1980,7 @@
 <s> His pride never deserts him ; but with the rich , he is liberal - minded , just , sincere , rational , honourable , and perhaps agreeable , - - allowing something for fortune and figure . </s>	8.48540953073734
 <s> He was directly invited to join their party , but he declined it , observing , that he could imagine but two motives for their chusing to walk up and down the room together , with either of which motives his joining them would interfere . </s>	8.452099439358085
 <s> With assumed tranquillity he then replied , " I have no wish of denying that I did every thing in my power to separate my friend from your sister , or that I rejoice in my success . </s>	10.69200444106967
-<s> " My dear Friend , " If you are not so compassionate as to dine to - day with Louisa and me , we shall be in danger of hating each other for the rest of our lives , for a whole day ' s tête - à - tête between two women can never end without a quarrel . </s>	8.948927176804816
+<s> " My dear Friend , " If you are not so compassionate as to dine to - day with Louisa and me , we shall be in danger of hating each other for the rest of our lives , for a whole day ' s tÃªte - Ã  - tÃªte between two women can never end without a quarrel . </s>	8.948927176804816
 <s> " " She is abominably rude to keep Charlotte out of doors in all this wind . </s>	8.223899556005835
 <s> To congratulate myself on the hope of relations , whose condition in life is so decidedly beneath my own ? </s>	10.895854775992932
 <s> A resemblance in good humour and good spirits had recommended her and Lydia to each other , and out of their _three_ months ' acquaintance they had been intimate _two_ . </s>	9.297312281638014
@@ -2408,7 +2408,7 @@
 <s> Darcy : - - but let me not interrupt you , Sir . </s>	12.618728236509714
 <s> It settled the matter ; and they pursued the accustomed circuit ; which brought them again , after some time , in a descent among hanging woods , to the edge of the water , in one of its narrowest parts . </s>	10.249473903052069
 <s> - - But to be guarded at such a time , is very difficult . </s>	16.078276852311415
-<s> The tête - à - tête surprised them . </s>	7.145619671238311
+<s> The tÃªte - Ã  - tÃªte surprised them . </s>	7.145619671238311
 <s> She still cherished a very tender affection for Bingley . </s>	11.973729452155842
 <s> In this perturbed state of mind , with thoughts that could rest on nothing , she walked on ; but it would not do ; in half a minute the letter was unfolded again , and collecting herself as well as she could , she again began the mortifying perusal of all that related to Wickham , and commanded herself so far as to examine the meaning of every sentence . </s>	10.602133166166519
 <s> But it is of small importance . </s>	13.139855683448513
