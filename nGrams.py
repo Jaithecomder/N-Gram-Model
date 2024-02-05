@@ -167,10 +167,16 @@ class NGramModel:
         #         perplexity.append(future.result())
         for sentenceSet in testSet:
             perplexity.append(self.getPerplexity(sentenceSet))
-        return sum(perplexity) / numSentences
+        avgPerp = 0
+        sentencePerp = {}
+        for i in perplexity:
+            avgPerp += sum(i.values())
+            sentencePerp.update(i)
+        avgPerp /= numSentences
+        return avgPerp, sentencePerp
     
     def getPerplexity(self, sentenceSet):
-        perpSum = 0
+        perpDict = {}
         for sentence in sentenceSet:
             nList = []
             logProb = 0
@@ -182,8 +188,8 @@ class NGramModel:
             prob = np.exp(logProb)
             if prob == 0:
                 prob = 1e-10
-            perpSum += prob ** (-1/len(sentence))
-        return perpSum
+            perpDict[' '.join(sentence)] = prob ** (-1 / len(sentence))
+        return perpDict
     
     def getSentenceScore(self, sentence):
         nList = []

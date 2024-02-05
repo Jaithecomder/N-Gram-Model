@@ -12,17 +12,6 @@ tokenized = tokenizer.tokenize(text)
 tokenized, testSet = train_test_split(tokenized, test_size=1000/len(tokenized), random_state=29)
 nGrams.fit(tokenized)
 
-# tokens = ['It', 'is']
-# print(tokens[0], end=' ')
-# print(tokens[1], end=' ')
-# tokens.append(nGrams.generate(tokens))
-# print(tokens[-1], end=' ')
-# for i in range(100):
-#     newToken = nGrams.generate(tokens)
-#     if newToken == None:
-#         break
-#     tokens.append(newToken)
-#     print(tokens[-1], end=' ')
 if __name__ == "__main__":
     # print("Test set perplexity : ", nGrams.perplexity(testSet))
     print("Train set perplexity : ", nGrams.perplexity(tokenized))

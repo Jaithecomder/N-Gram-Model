@@ -1,6 +1,5 @@
 from tokenizer import Tokenizer
 from nGrams import NGramModel
-from sklearn.model_selection import train_test_split
 import sys
 
 n = 3
