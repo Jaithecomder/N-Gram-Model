@@ -84,30 +84,11 @@ class NGramModel:
         if nGram in self.nGramsDictList[len(nGram) - 1]:
             return self.nGramsProbList[len(nGram) - 1][nGram]
         
-        if nGram[:-1] in self.nGramsDictList[len(nGram) - 2]:
-            return self.nGramsProbList[len(nGram) - 1][nGram[:-1] + ('<0>',)]
+        if self.fn == 'g':
+            if nGram[:-1] in self.nGramsDictList[len(nGram) - 2]:
+                return self.nGramsProbList[len(nGram) - 1][nGram[:-1] + ('<0>',)]
         
         return 1e-8
-
-        if len(nGram) == 1:
-            return 1e-10
-        
-        if nGram[-1:] not in self.nGramsDictList:
-            return 1e-10
-        
-        if nGram[:-1] not in self.nGramsDictList:
-            return self.nGramsProbList[nGram[-1:]]
-        
-        if nGram[:-1] in self.nGramsDictList:
-            nSum = 0
-            for nGramKey in self.nGramsDictList:
-                if type(nGramKey) == int:
-                    continue
-                if nGramKey[:-1] == tuple(nGram[:-1]):
-                    nSum += self.nGramsDictList[nGramKey]
-            return self.nGramsDictList[len(nGram)] / nSum
-
-        return 1e-5
 
     def goodTuring(self):
         self.zeroCounts = []
