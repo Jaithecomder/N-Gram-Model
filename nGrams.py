@@ -135,6 +135,23 @@ class NGramModel:
             probs = probs[:count]
         return words, probs
     
+    def genTokens(self, tokens):
+        cumProb = 0
+        rand = random.random()
+        # print(rand)
+        context = tokens
+        if len(tokens) >= self.n:
+            context = tokens[-self.n + 1:]
+        for word in self.vocab:
+            cumProb += self.getProbability(tuple(context) + (word,))
+            
+        rand = rand * cumProb
+
+        for word in self.vocab:
+            rand -= self.getProbability(tuple(context) + (word,))
+            if rand <= 0:
+                return word
+    
     def perplexity(self, testSet):
         numSentences = len(testSet)
         procs = 4
