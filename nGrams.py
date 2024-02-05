@@ -131,21 +131,30 @@ class NGramModel:
             self.linInt = LinearInterpolation(self.nGramsDictList, self.nGramsProbList, self.corpusSize, self.n)
             self.linInt.learnWeights()
 
-    # def generate(self, tokens):
-    #     lastNM1Gram = tuple(tokens[-(self.n-1):])
-    #     if lastNM1Gram not in self.nGramsDictList:
-    #         return None
-    #     nGramsProbList = self.getProbability(self.nGramsDictList, lastNM1Gram)
-    #     cumProb = 0
-    #     predWord = ''
-    #     rand = random.random()
-    #     for nGram in nGramsProbList:
-    #         if nGram[:-1] == lastNM1Gram:
-    #             cumProb += nGramsProbList[nGram]
-    #             if cumProb >= rand:
-    #                 predWord = nGram[-1]
-    #                 break
-    #     return predWord
+    def generate(self, tokens):
+        words = [''] * 5
+        probs = [0] * 5
+        context = tokens
+        if len(tokens) >= self.n:
+            context = tokens[-self.n + 1:]
+        count = 0
+        for nGram in self.nGramsDictList[len(context)]:
+            if nGram[:-1] == tuple(context):
+                count += 1
+                prob = self.getProbability(nGram)
+                if prob > min(probs):
+                    ind = probs.index(min(probs))
+                    words[ind] = nGram[-1]
+                    probs[ind] = prob
+        sortedInds = np.argsort(probs)[::-1]
+        words = [words[i] for i in sortedInds]
+        probs = [probs[i] for i in sortedInds]
+        if count < 5:
+            words = words[:count]
+            probs = probs[:count]
+        return words, probs
+                
+
     
     def perplexity(self, testSet):
         numSentences = len(testSet)
