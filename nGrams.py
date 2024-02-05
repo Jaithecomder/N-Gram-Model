@@ -10,6 +10,9 @@ class NGramModel:
         self.fn = fn
         self.nGramsDictList = {}
         self.linInt = None
+        self.corpusSize = 0
+        self.vocab = set()
+        self.zeroCounts = []
 
     def getVocab(self, text):
         vocab = set()
@@ -81,8 +84,6 @@ class NGramModel:
         if nGram in self.nGramsDictList[len(nGram) - 1]:
             return self.nGramsProbList[len(nGram) - 1][nGram]
         
-        print('no')
-        
         # if nGram[:-1] in self.nGramsDictList:
         #     return self.nGramsProbList[len(nGram) - 1][nGram[:-1] + ('<0>',)]
         
@@ -126,7 +127,6 @@ class NGramModel:
         if self.fn == 'g':
             self.goodTuring()
         self.nGramsProbList = self.computeProbability(self.nGramsDictList)
-        # print(min([min(self.nGramsProbList[i].values()) for i in range(self.n)]))
         if self.fn == 'i':
             self.linInt = LinearInterpolation(self.nGramsDictList, self.nGramsProbList, self.corpusSize, self.n)
             self.linInt.learnWeights()
@@ -153,8 +153,6 @@ class NGramModel:
             words = words[:count]
             probs = probs[:count]
         return words, probs
-                
-
     
     def perplexity(self, testSet):
         numSentences = len(testSet)
