@@ -71,7 +71,7 @@ class NGramModel:
             for i in range(0, self.n - 1):
                 for nM1Gram in nGramSumList[i]:
                     denm = nGramSumList[i][nM1Gram] + self.zeroCounts[i + 1]
-                    nGramsProbList[i + 1][nM1Gram + ('<0>',)] = self.zeroCounts[i + 1] / denm
+                    nGramsProbList[i + 1][nM1Gram + ('<0>',)] = (self.zeroCounts[i + 1] / denm)
         return nGramsProbList
     
     def getProbability(self, nGram):
@@ -84,8 +84,8 @@ class NGramModel:
         if nGram in self.nGramsDictList[len(nGram) - 1]:
             return self.nGramsProbList[len(nGram) - 1][nGram]
         
-        # if nGram[:-1] in self.nGramsDictList:
-        #     return self.nGramsProbList[len(nGram) - 1][nGram[:-1] + ('<0>',)]
+        if nGram[:-1] in self.nGramsDictList[len(nGram) - 2]:
+            return self.nGramsProbList[len(nGram) - 1][nGram[:-1] + ('<0>',)]
         
         return 1e-8
 

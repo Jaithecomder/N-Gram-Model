@@ -9,9 +9,11 @@ with open('./data/PrideandPrejudice.txt', 'r', encoding='utf8') as file:
     text = file.read() 
 tokenized = tokenizer.tokenize(text)
 
-tokenized, testSet = train_test_split(tokenized, test_size=1000/len(tokenized), random_state=29)
+tokenized, testSet = train_test_split(tokenized, test_size=1000/len(tokenized))
 nGrams.fit(tokenized)
 
 if __name__ == "__main__":
-    # print("Test set perplexity : ", nGrams.perplexity(testSet))
-    print("Train set perplexity : ", nGrams.perplexity(tokenized))
+    avgPerp, _ = nGrams.perplexity(testSet)
+    print("Test set perplexity : ", avgPerp)
+    avgPerp, _ = nGrams.perplexity(tokenized)
+    print("Train set perplexity : ", avgPerp)
