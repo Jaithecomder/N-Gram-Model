@@ -50,25 +50,25 @@ if __name__ == "__main__":
         for i in sentencePerp.keys():
             file.write(i + "\t" + str(sentencePerp[i]) + "\n")
 
-    # avgPerp, sentencePerp = LM3.perplexity(trainSetP)
+    # avgPerp, sentencePerp = LM3.perplexity(trainSetU)
     # with open('2021111029_LM3_train-perplexity.txt', 'w') as file:
     #     file.write(str(avgPerp) + "\n")
     #     for i in sentencePerp.keys():
     #         file.write(i + "\t" + str(sentencePerp[i]) + "\n")
 
-    # avgPerp, sentencePerp = LM3.perplexity(testSetP)
+    # avgPerp, sentencePerp = LM3.perplexity(testSetU)
     # with open('2021111029_LM3_test-perplexity.txt', 'w') as file:
     #     file.write(str(avgPerp) + "\n")
     #     for i in sentencePerp.keys():
     #         file.write(i + "\t" + str(sentencePerp[i]) + "\n")
             
-    avgPerp, sentencePerp = LM4.perplexity(trainSetP)
+    avgPerp, sentencePerp = LM4.perplexity(trainSetU)
     with open('2021111029_LM4_train-perplexity.txt', 'w') as file:
         file.write(str(avgPerp) + "\n")
         for i in sentencePerp.keys():
             file.write(i + "\t" + str(sentencePerp[i]) + "\n")
 
-    avgPerp, sentencePerp = LM4.perplexity(testSetP)
+    avgPerp, sentencePerp = LM4.perplexity(testSetU)
     with open('2021111029_LM4_test-perplexity.txt', 'w') as file:
         file.write(str(avgPerp) + "\n")
         for i in sentencePerp.keys():

@@ -1,5 +1,679 @@
-11.610167136878378
+11.609230172987422
+<s> - - " You are much mistaken if you expect to influence me by such a paltry attack as this . </s>	9.731376442284372
+<s> Philips ' s vulgarity was another , and perhaps a greater tax on his forbearance ; and though Mrs . </s>	11.12539928693411
+<s> Bennet was not imagined to be very rich , he would have been able to do something for him , and his situation must have been benefited by marriage . </s>	14.283875069117048
+<s> " Mr . </s>	10.513811381754909
 <s> Mr . </s>	11.99554322125884
+<s> Please check the Project Gutenberg Web pages for current donation methods and addresses . </s>	5.6409036523815645
+<s> I am only distressed by some dreadful news which I have just received from Longbourn . </s>	10.272682160970682
+<s> Had his character been known , this could not have happened . </s>	14.023616663669136
+<s> Bingley will dance with you at the next ball . </s>	17.618700448359373
+<s> Do not be afraid of my running into any excess , of my encroaching on your privilege of universal good will . </s>	9.64594775997237
+<s> But Mrs . </s>	18.01884524365123
+<s> - - You could not make _me_ happy , and I am convinced that I am the last woman in the world who would make _you_ so . </s>	11.712988526447623
+<s> It only shews her being deficient in something herself - - sense or feeling . </s>	8.69586591446173
+<s> When Jane and Elizabeth were alone , the former , who had been cautious in her praise of Mr . </s>	13.680762362580591
+<s> She was quite amazed at her own discomposure ; but amongst other causes of disquiet , she dreaded lest the partiality of the brother should have said too much in her favour ; and more than commonly anxious to please , she naturally suspected that every power of pleasing would fail her . </s>	10.000768953373015
+<s> I cannot think so very ill of Wickham . </s>	16.159784615711065
+<s> Colonel Fitzwilliam ' s manners were very much admired at the parsonage , and the ladies all felt that he must add considerably to the pleasure of their engagements at Rosings . </s>	13.693611957712577
+<s> Darcy had been over - rated , Elizabeth had never yet answered Mrs . </s>	9.992411690964211
+<s> " was a question which Elizabeth received from Jane as soon as she entered the room , and from all the others when they sat down to table . </s>	12.274404535157954
+<s> " " Are you consulting your own feelings in the present case , or do you imagine that you are gratifying mine ? </s>	13.080869460907973
+<s> I am sorry to say it of them , but so it is . </s>	15.996108050148088
+<s> Gardiner had waited only for the letters before he set off . </s>	12.12140142852024
+<s> " Elizabeth privately added , " And how much I shall have to conceal . </s>	13.046237147180731
+<s> - You comply with all other terms of this agreement for free distribution of Project Gutenberg - tm works . </s>	7.400176700018936
+<s> First of all , he asked Miss Lucas . </s>	21.013378072406283
+<s> Darcy returned within the stated time . </s>	11.084047109128582
+<s> CHAPTER XIX . </s>	16.73391323709303
+<s> He began to feel the danger of paying Elizabeth too much attention . </s>	11.684150913627688
+<s> I thought I understood from the Gardiners that you had . </s>	15.285988960150762
+<s> Darcy , her sister scarcely less so ; and as for Mr . </s>	14.43697118737437
+<s> " Did you speak from your own observation , " said she , " when you told him that my sister loved him , or merely from my information last spring ? </s>	10.780688226631593
+<s> She respected , she esteemed , she was grateful to him , she felt a real interest in his welfare ; and she only wanted to know how far she wished that welfare to depend upon herself , and how far it would be for the happiness of both that she should employ the power , which her fancy told her she still possessed , of bringing on the renewal of his addresses . </s>	11.742983373795294
+<s> Long . </s>	33.49756900189395
+<s> " " What you ask , " said Elizabeth , " is no sacrifice on my side ; and Mr . </s>	9.930085376228325
+<s> " Haye - Park might do , " said she , " if the Gouldings would quit it , or the great house at Stoke , if the drawing - room were larger ; but Ashworth is too far off ! </s>	8.079564788628325
+<s> " " I believe her to be both in a great degree , " replied Wickham ; " I have not seen her for many years , but I very well remember that I never liked her , and that her manners were dictatorial and insolent . </s>	12.607717488006056
+<s> Not that _I_ think Charlotte so _very_ plain - - but then she is our particular friend . </s>	8.10133979376458
+<s> Bennet , in short , was in very great spirits ; she had seen enough of Bingley ' s behaviour to Jane , to be convinced that she would get him at last ; and her expectations of advantage to her family , when in a happy humour , were so far beyond reason , that she was quite disappointed at not seeing him there again the next day , to make his proposals . </s>	13.515958653701267
+<s> Darcy might have done as well . </s>	16.54102037043871
+<s> Jane was not happy . </s>	23.5637007500558
+<s> I roused , and interested you , because I was so unlike _them_ . </s>	17.811743816196582
+<s> How was that possible ? </s>	18.082845722812493
+<s> " said Mr . </s>	10.604313469152077
+<s> My dear Mr . </s>	13.27357012625073
+<s> On the gentlemen ' s appearing , her colour increased ; yet she received them with tolerable ease , and with a propriety of behaviour equally free from any symptom of resentment , or any unnecessary complaisance . </s>	8.945865963557184
+<s> " " May I ask to what these questions tend ? </s>	8.113563110196022
+<s> Wickham , and of seeing a confirmation of every thing in Mr . </s>	12.094281777319953
+<s> Hurst was observing their game . </s>	10.039630249222899
+<s> Though suspicion was very far from Miss Bennet ' s general habits , she was absolutely incredulous here . </s>	11.04212082577636
+<s> " She was now , on being settled at home , at leisure to observe the real state of her sister ' s spirits . </s>	13.713657775457694
+<s> They were confined for the evening at different tables , and she had nothing to hope , but that his eyes were so often turned towards her side of the room , as to make him play as unsuccessfully as herself . </s>	11.998729610628425
+<s> Her ladyship ' s carriage is regularly ordered for us . </s>	8.708486303051135
+<s> Gardiner ' s door , Jane was at a drawing - room window watching their arrival ; when they entered the passage she was there to welcome them , and Elizabeth , looking earnestly in her face , was pleased to see it healthful and lovely as ever . </s>	10.035799940296275
+<s> Bennet had not found Miss Bennet worse than she expected . </s>	12.947483037063034
+<s> Robinson ' s asking him how he liked our Meryton assemblies , and whether he did not think there were a great many pretty women in the room , and _which_ he thought the prettiest ? </s>	11.383936036912187
+<s> But I think Mr . </s>	17.62670541778493
+<s> Bennet say voluntarily to Elizabeth , " I am glad you are come back , Lizzy . </s>	11.52767077418982
+<s> Though she dared not depend upon the consequence , she yet received pleasure from observing his behaviour . </s>	10.56936635737342
+<s> Mrs . </s>	13.500048752785482
+<s> - - You cannot refuse to dance , I am sure , when so much beauty is before you . </s>	11.22095045029152
+<s> CHAPTER XI . </s>	16.73391323709303
+<s> - - that , that is the worst of all . </s>	19.277282351478018
+<s> Bennet . </s>	22.062598582107732
+<s> " " Nor I , I am sure , " said Miss Bingley . </s>	10.253330306943214
+<s> " " And what did she say ? </s>	11.467690679684338
+<s> " " I do , I do like him , " she replied , with tears in her eyes , " I love him . </s>	14.568855548929573
+<s> " " Never , sir . </s>	13.273063718415745
+<s> " Or in other words , you are determined to have him . </s>	13.521606815289669
+<s> It is wonderful how many families I have been the means of supplying in that way . </s>	9.078542047918464
+<s> There is no danger of Wickham ' s marrying Mary King . </s>	11.51341366917321
+<s> I am glad he is gone . </s>	16.278392824078
+<s> Do not imagine , Miss Bennet , that your ambition will ever be gratified . </s>	11.834669780019619
+<s> They had often attempted it before , but it was a subject on which Mrs . </s>	12.116236523701815
+<s> - - Come , Kitty , I want you up stairs . </s>	12.13570301930311
+<s> " How can you be smiling so , Lizzy ? </s>	12.138380686347643
+<s> Kitty was the only one who shed tears ; but she did weep from vexation and envy . </s>	9.974187873425896
+<s> His countenance , voice , and manner , had established him at once in the possession of every virtue . </s>	18.081029977220744
+<s> Two of her girls had been on the point of marriage , and after all there was nothing in it . </s>	17.14376708558407
+<s> - - What a delightful library you have at Pemberley , Mr . </s>	11.37309981283698
+<s> Perhaps other people have said so before , but not one with such justice . </s>	15.579242215941873
+<s> Before any answer could arrive from Mr . </s>	7.996312755488306
+<s> Bennet ' s eyes sparkled with pleasure , and she was eagerly calling out , while her daughter read , " Well , Jane , who is it from ? </s>	13.19630500994023
+<s> Darcy , who was leaning against the mantle - piece with his eyes fixed on her face , seemed to catch her words with no less resentment than surprise . </s>	8.197655221489507
+<s> " " For the liveliness of your mind , I did . </s>	14.10001979795424
+<s> Darcy is uncommonly kind to Mr . </s>	10.621206550230204
+<s> Darcy might have liked such an address , he contented himself with coolly replying , that he perceived no other alteration than her being rather tanned , - - no miraculous consequence of travelling in the summer . </s>	9.15574154164825
+<s> forgive the question - - are you quite certain that you can be happy with him ? </s>	18.598392310323483
+<s> I am not equal to it . </s>	14.265637189280877
+<s> " Nay , " said Elizabeth , " this is not fair . </s>	14.007894460137342
+<s> " " Is this a hint to me , Lizzy , " said her father , " to send for the horses ? </s>	12.139871641390654
+<s> CHAPTER XV . </s>	16.73391323709303
+<s> His behaviour to us has , in every respect , been as pleasing as when we were in Derbyshire . </s>	11.28535715934691
+<s> Darcy give you his reasons for this interference ? </s>	12.776323538137763
+<s> " " A little sea - bathing would set me up for ever . </s>	5.56148431928832
+<s> And with regard to the resentment of his family , or the indignation of the world , if the former _were_ excited by his marrying me , it would not give me one moment ' s concern - - and the world in general would have too much sense to join in the scorn . </s>	13.630296555084524
+<s> Dearest Lizzy , I hardly know what I would write , but I have bad news for you , and it cannot be delayed . </s>	15.594446340344465
+<s> - - How much of good or evil must be done by him ! </s>	11.756353141769685
+<s> Her air was not conciliating , nor was her manner of receiving them , such as to make her visitors forget their inferior rank . </s>	11.748679814857217
+<s> Miss Darcy , on her brother ' s entrance , exerted herself much more to talk ; and Elizabeth saw that he was anxious for his sister and herself to get acquainted , and forwarded , as much as possible , every attempt at conversation on either side . </s>	12.820493747084962
+<s> - - It is done , however , and it was done for the best . </s>	17.56862229047045
+<s> " " Oh , yes ! </s>	8.555623679435833
+<s> " and turning round , he looked for a moment at Elizabeth , till catching her eye , he withdrew his own and coldly said , " She is tolerable ; but not handsome enough to tempt _me_ ; and I am in no humour at present to give consequence to young ladies who are slighted by other men . </s>	9.854892135945567
+<s> I see nothing in it but your own wilful ignorance and the malice of Mr . </s>	10.274683354806047
+<s> " " Dear madam , " cried Mrs . </s>	10.178946554640028
+<s> But I knew I should persuade you at last . </s>	15.109253933396744
+<s> Darcy ' s , but you shall do as you chuse . </s>	14.38120844250094
+<s> Had Lydia ' s marriage been concluded on the most honourable terms , it was not to be supposed that Mr . </s>	11.299248383345498
+<s> The death of your daughter would have been a blessing in comparison of this . </s>	12.027060992128535
+<s> I am going away myself . </s>	13.312043714933345
+<s> <NUM> and any additional terms imposed by the copyright holder . </s>	9.887466381401383
+<s> Bennet , however , with the assistance of her five daughters , could ask on the subject was sufficient to draw from her husband any satisfactory description of Mr . </s>	10.522578556422712
+<s> " " Certainly , " replied Elizabeth - - " there are such people , but I hope I am not one of _them_ . </s>	13.02492819650098
+<s> " " Yes - - _that_ is what makes it amusing . </s>	8.83627208454099
+<s> She will make him a very proper wife . </s>	17.86216144368233
+<s> Collins ' s fancying himself in love with her friend had once occurred to Elizabeth within the last day or two ; but that Charlotte could encourage him , seemed almost as far from possibility as that she could encourage him herself , and her astonishment was consequently so great as to overcome at first the bounds of decorum , and she could not help crying out , " Engaged to Mr . </s>	10.00698558536857
+<s> " " There is some sense in what he says about the girls however ; and if he is disposed to make them any amends , I shall not be the person to discourage him . </s>	10.556394518703765
+<s> Bennet , and they gave way only to the greater distress of Mr . </s>	12.83395094339352
+<s> I never in my life saw any thing more elegant than their dresses . </s>	9.212775496014226
+<s> " Elizabeth , having rather expected to affront him , was amazed at his gallantry ; but there was a mixture of sweetness and archness in her manner which made it difficult for her to affront anybody ; and Darcy had never been so bewitched by any woman as he was by her . </s>	11.763118311123842
+<s> The fishing scheme had been renewed the day before , and a positive engagement made of his meeting some of the gentlemen at Pemberley by noon . </s>	10.577195622904513
+<s> As they passed through the hall , Lady Catherine opened the doors into the dining - parlour and drawing - room , and pronouncing them , after a short survey , to be decent looking rooms , walked on . </s>	8.296402605753597
+<s> Darcy so deficient in the _appearance_ of it as you used to do . </s>	16.099627876717353
+<s> Darcy he stopt with a bow of superior courtesy to compliment him on his dancing and his partner . </s>	8.169985107069964
+<s> good or bad ? </s>	16.239633894893363
+<s> My father and mother knew nothing of that , they only felt how imprudent a match it must be . </s>	10.12904691956184
+<s> Ring the bell , Kitty , for Hill . </s>	14.581854497918997
+<s> Something he supposed might be attributed to his connection with them , but yet he had never met with so much attention in the whole course of his life . </s>	14.961494946843544
+<s> To the girls , who could not listen to their cousin , and who had nothing to do but to wish for an instrument , and examine their own indifferent imitations of china on the mantle - piece , the interval of waiting appeared very long . </s>	11.441853541502972
+<s> She could not yet recover from the surprise of what had happened ; it was impossible to think of any thing else , and totally indisposed for employment , she resolved soon after breakfast to indulge herself in air and exercise . </s>	10.314340544564917
+<s> - - Elizabeth , though expecting no less , thanked him with tears of gratitude ; and all three being actuated by one spirit , every thing relating to their journey was speedily settled . </s>	8.573658820344912
+<s> " Oh ! </s>	11.534323408275926
+<s> " " Speak to Lizzy about it yourself . </s>	9.824504065172361
+<s> Happy shall I be , when his stay at Netherfield is over ! </s>	16.034929836502204
+<s> _My_ father began life in the profession which your uncle , Mr . </s>	10.310215421882093
+<s> " I cannot make him out . </s>	16.371275845698698
+<s> Bennet ' s schemes for this day were ineffectual . </s>	10.038773327147409
+<s> Bennet should only hear of the departure of the family , without being alarmed on the score of the gentleman ' s conduct ; but even this partial communication gave her a great deal of concern , and she bewailed it as exceedingly unlucky that the ladies should happen to go away , just as they were all getting so intimate together . </s>	10.083163791922102
+<s> Good gracious ! </s>	19.858522869158005
+<s> I dare say Mr . </s>	11.868562078909633
+<s> " said Miss Bingley ; " will she be as tall as I am ? </s>	11.569994876948318
+<s> Wickham . </s>	24.363976562051075
+<s> Of having another daughter married to Mr . </s>	9.741213631090215
+<s> Darcy , to be treating his father ' s favourite in such a manner , - - one , whom his father had promised to provide for . </s>	13.192391032348926
+<s> " " And then you have added so much to it yourself , you are always buying books . </s>	12.489556802933198
+<s> Again she read on . </s>	17.16475454833998
+<s> A person may be proud without being vain . </s>	13.267458804921391
+<s> Darcy approaching them , and at no great distance . </s>	16.33165044576083
+<s> But the person who advanced , was now near enough to see her , and stepping forward with eagerness , pronounced her name . </s>	9.840583896008205
+<s> He smiled , looked handsome , and said many pretty things . </s>	12.500982273791093
+<s> Gardiner ' s caution to Elizabeth was punctually and kindly given on the first favourable opportunity of speaking to her alone ; after honestly telling her what she thought , she thus went on : " You are too sensible a girl , Lizzy , to fall in love merely because you are warned against it ; and , therefore , I am not afraid of speaking openly . </s>	9.8406573620003
+<s> My reproofs at Hunsford could not work such a change as this . </s>	13.218886361720307
+<s> " " True ; and nobody can ever be introduced in a ball room . </s>	12.092013704588178
+<s> We all love to instruct , though we can teach only what is not worth knowing . </s>	10.077395663532709
+<s> Their first subject was her sister ; and she was more grieved than astonished to hear , in reply to her minute enquiries , that though Jane always struggled to support her spirits , there were periods of dejection . </s>	9.946125601467779
+<s> " " Why , I must confess , that I love him better than I do Bingley . </s>	15.063108118233242
+<s> Bingley was quite uncomfortable ; his sisters declared that they were miserable . </s>	13.412847766608218
+<s> - - Every park has its beauty and its prospects ; and Elizabeth saw much to be pleased with , though she could not be in such raptures as Mr . </s>	9.989351915171333
+<s> One seems so forlorn without them . </s>	8.320433833212778
+<s> Gardiner added in his letter , that they might expect to see their father at home on the following day , which was Saturday . </s>	16.798873056351674
+<s> In revolving lady Catherine ' s expressions , however , she could not help feeling some uneasiness as to the possible consequence of her persisting in this interference . </s>	10.414743679614636
+<s> Lady Catherine ' s unjustifiable endeavours to separate us , were the means of removing all my doubts . </s>	10.00071958938797
+<s> His sister was less delicate , and directed her eye towards Mr . </s>	10.844247545403523
+<s> And in the first place , let us hear what has happened to you all , since you went away . </s>	13.387632206752867
+<s> - - How could his will be disregarded ? </s>	12.0497555414728
+<s> - - When they get to our age I dare say they will not think about officers any more than we do . </s>	9.981890378118166
+<s> Elizabeth was disgusted , and even Miss Bennet was shocked . </s>	16.29869356755451
+<s> " " Your humility , Mr . </s>	8.327761945478287
+<s> I fancy she was wanted about the mince pies . </s>	11.964704343550668
+<s> " Gracechurch - street , Sept . </s>	9.917727328090868
+<s> Darcy ' s letter , she was in a fair way of soon knowing by heart . </s>	11.258222362702503
+<s> " " I do not believe that he will ever live at Netherfield any more . </s>	10.612213057264713
+<s> Bennet ' s return , as Jane and Elizabeth were walking together in the shrubbery behind the house , they saw the housekeeper coming towards them , and , concluding that she came to call them to their mother , went forward to meet her ; but , instead of the expected summons , when they approached her , she said to Miss Bennet , " I beg your pardon , madam , for interrupting you , but I was in hopes you might have got some good news from town , so I took the liberty of coming to ask . </s>	10.878087939373444
+<s> Do you often dance at St . </s>	10.975180259237778
+<s> Gardiner were engaged with their children , was now put an end to , by the approach of the whole party . </s>	12.781474615755569
+<s> If he had not had a family of his own , I and my children must have had all his money you know , and it is the first time we have ever had any thing from him , except a few presents . </s>	15.268162339517533
+<s> Elizabeth ' s impatience to acquaint Jane with what had happened could no longer be overcome ; and at length resolving to suppress every particular in which her sister was concerned , and preparing her to be surprised , she related to her the next morning the chief of the scene between Mr . </s>	10.516376298398738
+<s> Hurst , merely looked the gentleman ; but his friend Mr . </s>	12.084837805547448
+<s> Collins might never make the offer , and till he did , it was useless to quarrel about him . </s>	11.974264078533341
+<s> Now , Lizzy , I think I _have_ surprised you . </s>	12.720609112880354
+<s> Bingley himself , Elizabeth withdrew to Miss Lucas ; to whose inquiry after the pleasantness of her last partner she had scarcely replied , before Mr . </s>	12.672025775506256
+<s> My sisters may write to _me_ . </s>	11.765930213600157
+<s> " " Perhaps preparing for his marriage with Miss de Bourgh , " said Elizabeth . </s>	9.283112810640842
+<s> She now lost every expectation of pleasure . </s>	11.612293866654568
+<s> Did he know of their intending to go off ? </s>	16.8604996265409
+<s> I do not know whether I ever before mentioned to you my feelings on this subject , but I will not leave the country without confiding them , and I trust you will not esteem them unreasonable . </s>	9.878824889181267
+<s> " But Elizabeth had now recollected herself , and making a strong effort for it , was able to assure her with tolerable firmness that the prospect of their relationship was highly grateful to her , and that she wished her all imaginable happiness . </s>	11.621685952188
+<s> Bennet , having dawdled about in the vestibule to watch for the end of the conference , no sooner saw Elizabeth open the door and with quick step pass her towards the staircase , than she entered the breakfast - room , and congratulated both him and herself in warm terms on the happy prospect of their nearer connection . </s>	8.976155485780968
+<s> The park paling was still the boundary on one side , and she soon passed one of the gates into the ground . </s>	10.041730218686519
+<s> It cannot be done too much ; and when I next write to her , I shall charge her not to neglect it on any account . </s>	13.495792185427955
+<s> If he fears me , why come hither ? </s>	11.902600161149088
+<s> Girls , can I do any thing for you in Meryton ? </s>	21.268526252959177
+<s> Could there be finer symptoms ? </s>	11.762759151697564
+<s> Darcy , she left Elizabeth to walk by herself . </s>	14.702759072122761
+<s> We do not suffer by _accident_ . </s>	12.693493970097363
+<s> Collins , for she vows she will not have him , and if you do not make haste he will change his mind and not have _her_ . </s>	12.7030675679101
+<s> Here again I shall give you pain - - to what degree you only can tell . </s>	11.868239090047897
+<s> In a moment they were all out of the chaise , rejoicing at the sight of each other . </s>	13.190667251585337
+<s> They found Mr . </s>	14.768901368743974
+<s> " " I suspected as much , " replied Elizabeth . </s>	11.96847641847794
+<s> " The introduction , however , was immediately made ; and as she named their relationship to herself , she stole a sly look at him , to see how he bore it ; and was not without the expectation of his decamping as fast as he could from such disgraceful companions . </s>	10.829473541583901
+<s> why is not every body as happy ? </s>	19.107205960751102
+<s> If Mr . </s>	20.859399295108684
+<s> Your idea of the ponies is delightful . </s>	16.573281733346505
+<s> I remain , dear sir , with respectful compliments to your lady and daughters , your well - wisher and friend , WILLIAM COLLINS . </s>	8.670280826894952
+<s> I am only ashamed of his asking so little . </s>	14.887872782914059
+<s> We must not all expect Jane ' s good fortune . </s>	13.111587677086833
+<s> However , I recollected afterwards , that if he _had_ been prevented going , the wedding need not be put off , for Mr . </s>	13.189348468962379
+<s> " " How unlucky that you should have a reasonable answer to give , and that I should be so reasonable as to admit it ! </s>	13.02394910520746
+<s> Have all her friends left her ? </s>	18.906451516806897
+<s> She was humbled , she was grieved ; she repented , though she hardly knew of what . </s>	12.049897005386983
+<s> <NUM> . </s>	16.712726942875463
+<s> Nor was her respect for him , though it made her more quiet , at all likely to make her more elegant . </s>	14.882214663819138
+<s> Bennet , alarmed . </s>	19.401471919775584
+<s> Bennet , by talking in this way ? </s>	16.357936632589272
+<s> But in matters of greater weight , I may suffer from the want of money . </s>	10.26759648663997
+<s> " " That you were gone into the army , and she was afraid had - - not turned out well . </s>	10.811342752879378
+<s> " Mrs . </s>	12.336764122025857
+<s> Till I can forget his father , I can never defy or expose _him_ . </s>	11.223510116957895
+<s> " " This is quite shocking ! </s>	11.868274930324548
+<s> Despite these efforts , Project Gutenberg - tm electronic works , and the medium on which they may be stored , may contain " Defects , " such as , but not limited to , incomplete , inaccurate or corrupt data , transcription errors , a copyright or other intellectual property infringement , a defective or damaged disk or other medium , a computer virus , or computer codes that damage or cannot be read by your equipment . </s>	5.9517064493824146
+<s> I thank you , again and again , for not going to the Lakes . </s>	16.849481539517598
+<s> Gardiner . </s>	25.979178687057637
+<s> At length , quite exhausted by the attempt to be amused with her own book , which she had only chosen because it was the second volume of his , she gave a great yawn and said , " How pleasant it is to spend an evening in this way ! </s>	13.064404369215197
+<s> The housekeeper came ; a respectable - looking , elderly woman , much less fine , and more civil , than she had any notion of finding her . </s>	10.461623053845514
+<s> Bennet had so carefully provided for the entertainment of her brother and sister , that they did not once sit down to a family dinner . </s>	12.345769497549595
+<s> She had spent six weeks with great enjoyment ; and the pleasure of being with Charlotte , and the kind attentions she had received , must make _her_ feel the obliged . </s>	11.43157593853086
+<s> Collins was not left long to the silent contemplation of his successful love ; for Mrs . </s>	13.138257433372372
+<s> - - That I was desirous of believing her indifferent is certain , - - but I will venture to say that my investigations and decisions are not usually influenced by my hopes or fears . </s>	7.740694769703855
+<s> One cannot know what a man really is by the end of a fortnight . </s>	15.181138509148793
+<s> I remember , as soon as ever I saw him , when he first came into Hertfordshire last year , I thought how likely it was that you should come together . </s>	12.535865664861873
+<s> My sister , who is more than ten years my junior , was left to the guardianship of my mother ' s nephew , Colonel Fitzwilliam , and myself . </s>	13.715497849658112
+<s> " Jane went to him instantly , kissed him , and thanked him for his goodness . </s>	14.093718675613507
+<s> Her nose wants character ; there is nothing marked in its lines . </s>	9.006727226129081
+<s> " " Indeed , Mama , you are mistaken , " said Elizabeth , blushing for her mother . </s>	9.953104336297649
+<s> The two youngest of the family , Catherine and Lydia , were particularly frequent in these attentions ; their minds were more vacant than their sisters ' , and when nothing better offered , a walk to Meryton was necessary to amuse their morning hours and furnish conversation for the evening ; and however bare of news the country in general might be , they always contrived to learn some from their aunt . </s>	8.347389066104212
+<s> do not repeat what I then said . </s>	17.083263360648022
+<s> Philips was very thankful for his compliance , but could not wait for his reason . </s>	16.289124509680878
+<s> " " These are home questions - - and perhaps I cannot say that I have experienced many hardships of that nature . </s>	9.333195149017914
+<s> Bennet was quite in the fidgets . </s>	19.943983536487515
+<s> " " Merely to the illustration of _your_ character , " said she , endeavouring to shake off her gravity . </s>	7.782281317769552
+<s> " " Are you so severe upon your own sex , as to doubt the possibility of all this ? </s>	12.033164094687319
+<s> - - Nay , were your friend Lady Catherine to know me , I am persuaded she would find me in every respect ill qualified for the situation . </s>	12.022765046610923
+<s> F . </s>	21.371727463944577
+<s> One morning , soon after their arrival , as she was sitting with her two elder sisters , she said to Elizabeth , " Lizzy , I never gave _you_ an account of my wedding , I believe . </s>	13.830640170339025
+<s> - - He has always something to say to every body . </s>	12.506552163300588
+<s> He is a gentleman ; I am a gentleman ' s daughter ; so far we are equal . </s>	15.006777325435726
+<s> " " And your assurance of it , I suppose , carried immediate conviction to him . </s>	8.495872635318884
+<s> To his tacit engagement with Miss De Bourgh ? </s>	9.80211673431618
+<s> There will not be the smallest occasion for your coming to town again ; therefore , stay quietly at Longbourn , and depend on my diligence and care . </s>	11.676412371613349
+<s> and Mrs . </s>	9.911990597012519
+<s> he has _some_ friends , though perhaps not so many as he deserves . </s>	16.718680100152653
+<s> " " If you _will_ thank me , " he replied , " let it be for yourself alone . </s>	10.498869205810935
+<s> No one admitted to the privilege of hearing you , can think any thing wanting . </s>	14.203035019769425
+<s> Bennet was forced to submit to a separation , which , as her husband by no means entered into her scheme of their all going to Newcastle , was likely to continue at least a twelvemonth . </s>	10.910932348354612
+<s> " But as Elizabeth could not receive comfort from any such expectation , she made no answer . </s>	11.54670878684543
+<s> " She then sought her eldest sister , who had undertaken to make inquiries on the same subject of Bingley . </s>	11.092549048548143
+<s> She had always seen it with pain ; but respecting his abilities , and grateful for his affectionate treatment of herself , she endeavoured to forget what she could not overlook , and to banish from her thoughts that continual breach of conjugal obligation and decorum which , in exposing his wife to the contempt of her own children , was so highly reprehensible . </s>	10.744471857125033
+<s> Into _one_ house in this neighbourhood , they shall never have admittance . </s>	13.437271900177915
+<s> His friend had left him that morning for London , but was to return home in ten days time . </s>	12.371599320339387
+<s> " Elizabeth made no answer , and walked on , her heart swelling with indignation . </s>	10.94540617640902
+<s> The insipidity and yet the noise ; the nothingness and yet the self - importance of all these people ! </s>	8.515851862650173
+<s> I shall send this by express , that no time may be lost in bringing me your answer . </s>	8.728374743408587
+<s> how heartily did she grieve over every ungracious sensation she had ever encouraged , every saucy speech she had ever directed towards him . </s>	8.222213883855089
+<s> Had it been your uncle ' s doing , I must and _would_ have paid him ; but these violent young lovers carry every thing their own way . </s>	9.387393903151802
+<s> This will never do . </s>	21.403737076784754
+<s> In another minute Mr . </s>	11.546314249178415
+<s> His coming into the country at all , is a most insolent thing indeed , and I wonder how he could presume to do it . </s>	12.753769309297235
+<s> With _your_ good sense , to be so honestly blind to the follies and nonsense of others ! </s>	11.170074840849619
+<s> Well , Colonel Fitzwilliam , what do I play next ? </s>	11.887554002223835
+<s> " From herself to Jane - - from Jane to Bingley , her thoughts were in a line which soon brought to her recollection that Mr . </s>	13.150549220868827
+<s> It was really a very handsome thought . </s>	14.645909857487284
+<s> - - Her Ladyship , with great condescension , arose to receive them ; and as Mrs . </s>	10.718165081988392
+<s> It was rather small , but well built and convenient ; and every thing was fitted up and arranged with a neatness and consistency of which Elizabeth gave Charlotte all the credit . </s>	9.108322612755098
+<s> Bingley was the principal spokesman , and Miss Bennet the principal object . </s>	16.068169929090953
+<s> The two first dances , however , brought a return of distress ; they were dances of mortification . </s>	8.65359254182889
+<s> I am not to be intimidated into anything so wholly unreasonable . </s>	9.152582452718814
+<s> What pin - money , what jewels , what carriages you will have ! </s>	11.402780661878884
+<s> Hurst called them to order , with bitter complaints of their inattention to what was going forward . </s>	11.211510419168144
+<s> " " But you blame me for having spoken so warmly of Wickham . </s>	8.241203454963811
+<s> - - They were excessively sorry to go ! </s>	15.871313781536184
+<s> " " And my aunt Philips is sure it would do _me_ a great deal of good , " added Kitty . </s>	9.420417856099485
+<s> - - Daughters are never of so much consequence to a father . </s>	12.487564224227476
+<s> I told him of all that had occurred to make my former interference in his affairs , absurd and impertinent . </s>	11.225398630699639
+<s> Bennet seemed wholly disinclined at present , to leave London , and promised to write again very soon . </s>	11.859438208181441
+<s> " " Mr . </s>	9.224728680659858
+<s> Hurst and Miss Bingley ; and Elizabeth was convinced that they held her in contempt for it . </s>	11.330642796350947
+<s> " " I will not be interrupted . </s>	12.883680248856457
+<s> The certainty of meeting him had not been checked by any of those recollections that might not unreasonably have alarmed her . </s>	8.65928152161287
+<s> Of Mr . </s>	20.217459278523666
+<s> " She burst into tears as she alluded to it , and for a few minutes could not speak another word . </s>	11.12987180252968
+<s> To his wife he was very little otherwise indebted , than as her ignorance and folly had contributed to his amusement . </s>	10.24706215294006
+<s> In seeing Bingley , her thoughts naturally flew to her sister ; and oh ! </s>	14.283596499887768
+<s> Wickham ' s affection for Lydia , was just what Elizabeth had expected to find it ; not equal to Lydia ' s for him . </s>	13.13747614927389
+<s> " " Yes , in conjunction with his friend . </s>	10.723412697732439
+<s> " " My dear , do not give way to such gloomy thoughts . </s>	10.227691028011257
+<s> But let me advise you to think better of it . </s>	14.225919574750302
+<s> They met again on Sunday , and then _I_ saw him too . </s>	12.748829995222808
+<s> This matter may be considered , therefore , as finally settled . </s>	13.87798483440963
+<s> The prospect of such delights was very cheering , and they parted in mutual good spirits . </s>	10.736768384126892
+<s> Darcy would never have come so soon to wait upon me . </s>	9.772735262770189
+<s> At length the Parsonage was discernible . </s>	9.645651259987932
+<s> She was to accompany Sir William and his second daughter . </s>	14.079091679492938
+<s> Nor am I ashamed of the feelings I related . </s>	16.404923020967242
+<s> " " If it was to be secret , " said Jane , " say not another word on the subject . </s>	12.082648854238588
+<s> It will not do . </s>	21.928738898409136
+<s> Bennet , shaking her head , " then she is better off than many girls . </s>	10.570872014314947
+<s> I do not know a place in the country that is equal to Netherfield . </s>	13.110384587778382
+<s> These two girls had been above an hour in the place , happily employed in visiting an opposite milliner , watching the sentinel on guard , and dressing a sallad and cucumber . </s>	7.055234797894172
+<s> But in all , and in almost every line of each , there was a want of that cheerfulness which had been used to characterize her style , and which , proceeding from the serenity of a mind at ease with itself , and kindly disposed towards every one , had been scarcely ever clouded . </s>	11.124450984640907
+<s> It was a long time before she became at all reconciled to the idea of so unsuitable a match . </s>	11.8479131998984
+<s> " I do not know how you will ever make him amends for his kindness ; or me either , for that matter . </s>	11.528793525756019
+<s> Philips protested that they would have a nice comfortable noisy game of lottery tickets , and a little bit of hot supper afterwards . </s>	8.57613467604045
+<s> She was engaged one day as she walked , in re - perusing Jane ' s last letter , and dwelling on some passages which proved that Jane had not written in spirits , when , instead of being again surprised by Mr . </s>	9.812167959049546
+<s> " " My dear , " replied her husband , " I have two small favours to request . </s>	9.739955706647233
+<s> " I have been thinking it over again , Elizabeth , " said her uncle , as they drove from the town ; " and really , upon serious consideration , I am much more inclined than I was to judge as your eldest sister does of the matter . </s>	11.758513359854112
+<s> The little Gardiners , attracted by the sight of a chaise , were standing on the steps of the house , as they entered the paddock ; and when the carriage drove up to the door , the joyful surprise that lighted up their faces , and displayed itself over their whole bodies , in a variety of capers and frisks , was the first pleasing earnest of their welcome . </s>	9.435500285923547
+<s> " " No , nothing at all . </s>	10.494141142531362
+<s> Hurst and Miss Bingley had spent some hours of the morning with the invalid , who continued , though slowly , to mend ; and in the evening Elizabeth joined their party in the drawing - room . </s>	11.592974436462605
+<s> Collins attending them to point out its beauties , and Lady Catherine kindly informing them that it was much better worth looking at in the summer . </s>	11.121843185799348
+<s> Collins for the knowledge of what carriages went along , and how often especially Miss De Bourgh drove by in her phaeton , which he never failed coming to inform them of , though it happened almost every day . </s>	9.934535518310843
+<s> Darcy may perhaps have _heard_ of such a place as Gracechurch Street , but he would hardly think a month ' s ablution enough to cleanse him from its impurities , were he once to enter it ; and depend upon it , Mr . </s>	8.278091745827785
+<s> " Darcy had walked away to another part of the room . </s>	13.134861397414731
+<s> Poor dear child ! </s>	16.750872531462
+<s> " Of music ! </s>	17.036911821104464
+<s> - - " You dislike an argument , and want to silence this . </s>	11.058344151660988
+<s> On the stairs were a troop of little boys and girls , whose eagerness for their cousin ' s appearance would not allow them to wait in the drawing - room , and whose shyness , as they had not seen her for a twelvemonth , prevented their coming lower . </s>	9.1452034065398
+<s> We all know him to be a proud , unpleasant sort of man ; but this would be nothing if you really liked him . </s>	12.403860725039962
+<s> CHAPTER VI . </s>	19.270322507368718
+<s> There was not much in the question , nor in the preceding remark , but there was a look and a manner which gave them meaning . </s>	15.92097833788871
+<s> Be so kind as to apologize for us to Miss Darcy . </s>	11.18020690934676
+<s> I do not know any body who seems more to enjoy the power of doing what he likes than Mr . </s>	8.616088915054515
+<s> your father of course may spare you , if your mother can . </s>	14.418439577869089
+<s> _Invented by M ^ { rs } Bell <NUM> Charlotte Street Bedford Square . </s>	4.124224625834337
+<s> Thoughtlessness , want of attention to other people ' s feelings , and want of resolution , will do the business . </s>	13.03113625605224
+<s> Good bye . </s>	20.891744421499137
+<s> Project Gutenberg volunteers and employees expend considerable effort to identify , do copyright research on , transcribe and proofread public domain works in creating the Project Gutenberg - tm collection . </s>	4.991260609263692
+<s> She seems perfectly happy , however , and in a prudential light , it is certainly a very good match for her . </s>	12.20848277065995
+<s> Without a governess you must have been neglected . </s>	14.147514571053069
+<s> " " I wish I could say any thing to comfort you , " replied Elizabeth ; " but it is wholly out of my power . </s>	11.675229922646041
+<s> At present I will say nothing about it . </s>	12.02805802705452
+<s> " " You are quite right . </s>	10.11289718159938
+<s> " " Did Mr . </s>	11.554396159573502
+<s> But the clothes , the wedding clothes ! </s>	16.456877476536672
+<s> I ought not to have said a word about it . </s>	14.302846683698778
+<s> " His father was an excellent man , " said Mrs . </s>	13.099459489868835
+<s> Hurst ' s gown - - - - " Here she was interrupted again . </s>	14.324886973346539
+<s> I write without any intention of paining you , or humbling myself , by dwelling on wishes , which , for the happiness of both , cannot be too soon forgotten ; and the effort which the formation , and the perusal of this letter must occasion , should have been spared , had not my character required it to be written and read . </s>	10.948490396646985
+<s> " " A man who had felt less , might . </s>	12.60864135613413
+<s> Mary had heard herself mentioned to Miss Bingley as the most accomplished girl in the neighbourhood ; and Catherine and Lydia had been fortunate enough to be never without partners , which was all that they had yet learnt to care for at a ball . </s>	12.7006179007317
+<s> " Jane looked at Elizabeth with surprise and concern . </s>	11.937002025136747
+<s> " Yes , he had no engagement at all for to - morrow ; and her invitation was accepted with alacrity . </s>	12.0664694210299
+<s> Elizabeth was glad to be taken to her immediately ; and Jane , who had only been withheld by the fear of giving alarm or inconvenience , from expressing in her note how much she longed for such a visit , was delighted at her entrance . </s>	12.724532684029459
+<s> His family knew him to be on all common occasions , a most negligent and dilatory correspondent , but at such a time , they had hoped for exertion . </s>	10.465665133461119
+<s> " John told us Mr . </s>	10.309339452753653
+<s> It is what every body says . </s>	14.356313809705817
+<s> Collins , " cried Elizabeth with some warmth , " you puzzle me exceedingly . </s>	11.47927384775231
+<s> At any rate , she cannot grow many degrees worse , without authorizing us to lock her up for the rest of her life . </s>	9.03688951646912
+<s> His temptation is not adequate to the risk . </s>	15.972236772940853
+<s> At such a moment , the arrival of her friend was a sincere pleasure to Elizabeth , though in the course of their meetings she must sometimes think the pleasure dearly bought , when she saw Mr . </s>	12.147602956161048
+<s> - - He carved , and ate , and praised with delighted alacrity ; and every dish was commended , first by him , and then by Sir William , who was now enough recovered to echo whatever his son in law said , in a manner which Elizabeth wondered Lady Catherine could bear . </s>	8.679748308189664
+<s> - - Mr . </s>	11.872077098849026
+<s> But who could have foreseen such an attention as this ? </s>	14.642825762426
+<s> Bennet was in fact too much overpowered to say a great deal while Sir William remained ; but no sooner had he left them than her feelings found a rapid vent . </s>	9.537034988626154
+<s> " " It must be very agreeable to her to be settled within so easy a distance of her own family and friends . </s>	11.214145986016923
+<s> Philips , who had been a clerk to their father , and succeeded him in the business , and a brother settled in London in a respectable line of trade . </s>	13.379049134628476
+<s> - - Does it not expressly declare that Caroline neither expects nor wishes me to be her sister ; that she is perfectly convinced of her brother ' s indifference , and that if she suspects the nature of my feelings for him , she means ( most kindly ! </s>	9.62421397905475
+<s> " " I cannot be so easily reconciled to myself . </s>	9.870383188361002
+<s> * * * * * Mr . </s>	8.376310164806052
+<s> " My love , should not you like to see a place of which you have heard so much ? </s>	18.040373696502808
+<s> " " Nothing child , nothing . </s>	13.252879033008787
+<s> Younge , in whose character we were most unhappily deceived ; and by her connivance and aid , he so far recommended himself to Georgiana , whose affectionate heart retained a strong impression of his kindness to her as a child , that she was persuaded to believe herself in love , and to consent to an elopement . </s>	10.968998571190774
+<s> " Elizabeth was surprised , but agreed to it immediately . </s>	14.115640721391195
+<s> " I am glad I bought my bonnet , if it is only for the fun of having another bandbox ! </s>	9.321819679469973
+<s> - - It seems an hopeless business . </s>	9.169512965049224
+<s> Do let me ask my partner to introduce you . </s>	10.784003379550471
+<s> " My dear , dear Lizzy , I would - - I do congratulate you - - but are you certain ? </s>	12.90386462362381
+<s> " Miss Bingley immediately fixed her eyes on his face , and desired he would tell her what lady had the credit of inspiring such reflections . </s>	10.193812875447135
+<s> Gardiner looked at her niece with a smile , but Elizabeth could not return it . </s>	15.109961636606164
+<s> - - Others of the party were now applied to . </s>	14.39753683568452
+<s> Bennet the comfort of having a daughter well married ; and she called at Longbourn rather oftener than usual to say how happy she was , though Mrs . </s>	10.987233367081911
+<s> The venison was roasted to a turn - - and everybody said , they never saw so fat a haunch . </s>	9.695235884992853
+<s> She comes to us to - day . </s>	15.07318603581589
+<s> " " Because honour , decorum , prudence , nay , interest , forbid it . </s>	6.275316762003139
+<s> And now nothing remains for me but to assure you in the most animated language of the violence of my affection . </s>	12.19657966743051
+<s> Miss Bingley I am sure cannot . </s>	16.10074328477199
+<s> Darcy ; - - that to be in the same room , the same party with him for so many hours together , might be more than I could bear , and that scenes might arise unpleasant to more than myself . </s>	14.067037777543696
+<s> Their eyes instantly met , and the cheeks of each were overspread with the deepest blush . </s>	10.23759859554327
+<s> My temper would perhaps be called resentful . </s>	9.710768345414378
+<s> Pray do not talk of that odious man . </s>	17.62172441706766
+<s> But to be sure , the good lady who shewed us the house , did give him a most flaming character ! </s>	12.913663060498529
+<s> A little time therefore . </s>	17.212033082644833
+<s> - - What would I give to hear your strictures on them ! </s>	9.249899003246316
+<s> Darcy seemed much pleased with the attention . </s>	15.298820818633398
+<s> To all the objections I have already urged , I have still another to add . </s>	12.564205052109521
+<s> Bennet one day , " what is your opinion _now_ of this sad business of Jane ' s ? </s>	13.877412677172892
+<s> Collins appears very fortunate in his choice of a wife . </s>	12.398033643412415
+<s> Bennet was diffuse in her good wishes for the felicity of her daughter , and impressive in her injunctions that she would not miss the opportunity of enjoying herself as much as possible ; advice , which there was every reason to believe would be attended to ; and in the clamorous happiness of Lydia herself in bidding farewell , the more gentle adieus of her sisters were uttered without being heard . </s>	10.657519685282592
+<s> Philips was always glad to see her nieces , and the two eldest , from their recent absence , were particularly welcome , and she was eagerly expressing her surprise at their sudden return home , which , as their own carriage had not fetched them , she should have known nothing about , if she had not happened to see Mr . </s>	11.787861914395338
+<s> Bennet had no more to say ; and Lady Lucas , who had been long yawning at the repetition of delights which she saw no likelihood of sharing , was left to the comforts of cold ham and chicken . </s>	9.602921636040113
+<s> Collins ' s happiness ; and that in speaking of Rosings and her not perfectly understanding the house , he seemed to expect that whenever she came into Kent again she would be staying _there_ too . </s>	10.40765993839171
+<s> I . </s>	25.149410741981846
+<s> Why , especially , when you called , did you look as if you did not care about me ? </s>	13.69191242686346
+<s> You have shewn him off now much more than he did himself . </s>	9.935276719165941
+<s> " I have just had a letter from Jane , with such dreadful news . </s>	13.043212051197996
+<s> " " If you mean Darcy , " cried her brother , " he may go to bed , if he chuses , before it begins - - but as for the ball , it is quite a settled thing ; and as soon as Nicholls has made white soup enough I shall send round my cards . </s>	10.458099733124966
+<s> is not this an agreeable surprise ? </s>	14.995165929798212
+<s> Well , my comfort is , I am sure Jane will die of a broken heart , and then he will be sorry for what he has done . </s>	12.51151908764781
+<s> But though every thing seemed neat and comfortable , she was not able to gratify him by any sigh of repentance ; and rather looked with wonder at her friend that she could have so cheerful an air , with such a companion . </s>	9.546091876906731
+<s> " " No , indeed , I did not . </s>	11.854073475695488
+<s> " Lizzy is only headstrong in such matters as these . </s>	9.88509505999367
+<s> " " I do not think we were speaking at all . </s>	9.439356572663469
+<s> But in what proportions it should be divided amongst the latter , depended on the will of the parents . </s>	11.476223172023866
+<s> Elizabeth jumped out ; and , after giving each of them an hasty kiss , hurried into the vestibule , where Jane , who came running down stairs from her mother ' s apartment , immediately met her . </s>	8.92329534069184
+<s> " " This is no very striking resemblance of your own character , I am sure , " said he . </s>	10.394109596437476
+<s> I take up my pen again to do , what I have just told you I would not , but circumstances are such , that I cannot help earnestly begging you all to come here , as soon as possible . </s>	11.821652073136923
+<s> Bingley before , expressed to her sister how very much she admired him . </s>	13.107916815427568
+<s> Many circumstances might make it more eligible for them to be married privately in town than to pursue their first plan ; and even if _he_ could form such a design against a young woman of Lydia ' s connections , which is not likely , can I suppose her so lost to every thing ? </s>	9.848708545348765
+<s> - - If , in the explanation of them which is due to myself , I am under the necessity of relating feelings which may be offensive to your ' s , I can only say that I am sorry . </s>	12.487693959933779
+<s> S . </s>	28.691469256981947
+<s> Lord bless me ! </s>	16.728542864184465
+<s> In Three Volumes . </s>	11.294327966920553
+<s> Let me take it in the best light , in the light in which it may be understood . </s>	15.402519309009884
+<s> Darcy , though every glance convinced her of what she dreaded ; for though he was not always looking at her mother , she was convinced that his attention was invariably fixed by her . </s>	12.644203923488151
+<s> Were the same fair prospect to arise at present , as had flattered them a year ago , every thing , she was persuaded , would be hastening to the same vexatious conclusion . </s>	10.528442030690147
+<s> Philips were now productive of the most interesting intelligence . </s>	13.766310754876985
+<s> " What do you think ? </s>	15.096499188003017
+<s> She was even sensible of some pleasure , though mixed with regret , on finding how steadfastly both she and her uncle had been persuaded that affection and confidence subsisted between Mr . </s>	9.042860281840342
+<s> But think no more of the letter . </s>	17.740481587473386
+<s> " " You may depend upon my not mentioning it . </s>	7.456925299148466
+<s> - - No one who has ever seen you together , can doubt his affection . </s>	11.2191561908147
+<s> She then joined them soon enough to see Lydia , with anxious parade , walk up to her mother ' s right hand , and hear her say to her eldest sister , " Ah ! </s>	13.047430689932943
+<s> " Next time you call , " said she , " I hope we shall be more lucky . </s>	9.998170105267162
+<s> I cannot boast of knowing more than half a dozen , in the whole range of my acquaintance , that are really accomplished . </s>	11.874104569985416
+<s> Make haste , and come down this moment . </s>	15.807739496456422
+<s> But she is very young ; she has never been taught to think on serious subjects ; and for the last half year , nay , for a twelvemonth , she has been given up to nothing but amusement and vanity . </s>	11.94362600511371
+<s> When the ladies removed after dinner , Elizabeth ran up to her sister , and seeing her well guarded from cold , attended her into the drawing - room ; where she was welcomed by her two friends with many professions of pleasure ; and Elizabeth had never seen them so agreeable as they were during the hour which passed before the gentlemen appeared . </s>	9.844733348563881
+<s> But every body is to judge for themselves , and the Lucases are very good sort of girls , I assure you . </s>	13.502399664073744
+<s> - - " He is now gone into the army , " she added , " but I am afraid he has turned out very wild . </s>	9.291617262605163
+<s> But the misfortune of speaking with bitterness , is a most natural consequence of the prejudices I had been encouraging . </s>	11.747589508170174
+<s> But I was not then master enough of myself to know what could or ought to be revealed . </s>	12.465435770942875
+<s> Your character was unfolded in the recital which I received many months ago from Mr . </s>	10.545335050520645
+<s> The Miss Webbs all play , and their father has not so good an income as your ' s . </s>	10.468687162606496
+<s> Hill , in great astonishment , " don ' t you know there is an express come for master from Mr . </s>	11.423948115551283
+<s> Lady Lucas quieted her fears a little by starting the idea of his being gone to London only to get a large party for the ball ; and a report soon followed that Mr . </s>	9.562424596376413
+<s> " " That is all settled ; " repeated the other , as she ran into her room to prepare . </s>	12.48992548584958
+<s> The girls grieved over such a number of ladies ; but were comforted the day before the ball by hearing , that instead of twelve , he had brought only six with him from London , his five sisters and a cousin . </s>	11.21555202788924
+<s> " " _You_ go to Brighton ! </s>	11.264782275573609
+<s> I did not wink at you . </s>	11.388940327606676
+<s> Bennet himself , while his wife seriously commended Mr . </s>	13.022984857997388
+<s> " " Were it certain that Lady Catherine would think so , " said Mr . </s>	10.853216197139094
+<s> She knew how little such a situation would give pleasure to either , or make either appear to advantage . </s>	11.544721109045119
+<s> Philips ' s house , and then made their bows , in spite of Miss Lydia ' s pressing entreaties that they would come in , and even in spite of Mrs . </s>	11.050432347471116
+<s> " " From the former . </s>	13.391982797569707
+<s> I am so pleased - - so happy . </s>	13.875998095793452
+<s> " How strange this is ! </s>	14.36241231070285
+<s> But it is so strange ! </s>	17.113490978394818
+<s> Find such a woman as soon as you can , bring her to Hunsford , and I will visit her . </s>	15.211013532040635
+<s> Bingley , " said Elizabeth , " must disarm reproof . </s>	9.886569145131968
+<s> The children , two girls of six and eight years old , and two younger boys , were to be left under the particular care of their cousin Jane , who was the general favourite , and whose steady sense and sweetness of temper exactly adapted her for attending to them in every way - - teaching them , playing with them , and loving them . </s>	10.208761917135892
+<s> She would not even wish for any renewal of his attentions . </s>	15.484715736703961
+<s> With these rooms I might now have been familiarly acquainted ! </s>	11.549523781191938
+<s> Bennet , are not they ? </s>	18.43128883958692
+<s> Without supposing them , from what she saw , to be very seriously in love , their preference of each other was plain enough to make her a little uneasy ; and she resolved to speak to Elizabeth on the subject before she left Hertfordshire , and represent to her the imprudence of encouraging such an attachment . </s>	13.507139823675827
+<s> " " Oh ! </s>	8.250615814056024
+<s> Gardiner this moment , on business that cannot be delayed ; I have not an instant to lose . </s>	12.557333688317657
+<s> shocking ! </s>	43.626541837647785
+<s> Not all that Mrs . </s>	19.023564948547552
+<s> Easter was approaching , and the week preceding it , was to bring an addition to the family at Rosings , which in so small a circle must be important . </s>	12.591457447195815
+<s> Bingley was good looking and gentleman - like ; he had a pleasant countenance , and easy , unaffected manners . </s>	10.48101834537966
+<s> How far your nephew might approve of your interference in _his_ affairs , I cannot tell ; but you have certainly no right to concern yourself in mine . </s>	8.964820881489226
+<s> " E . </s>	21.45720504680242
+<s> These parties were acceptable to all ; to avoid a family circle was even more desirable to such as did think , than such as did not . </s>	10.229897543337765
+<s> Their taking her home , and affording her their personal protection and countenance , is such a sacrifice to her advantage , as years of gratitude cannot enough acknowledge . </s>	10.96687684737346
+<s> You are determined to ruin him in the opinion of all his friends , and make him the contempt of the world . </s>	14.588226574186272
+<s> " " Mrs . </s>	11.167140010974167
+<s> Darcy without being grieved to the soul by a thousand tender recollections . </s>	11.966388372032785
+<s> CHAPTER I . </s>	19.072162579206406
+<s> " " I do not believe Mrs . </s>	8.91788890121252
+<s> But perhaps , " added he , stopping in his walk , and turning towards her , " these offences might have been overlooked , had not your pride been hurt by my honest confession of the scruples that had long prevented my forming any serious design . </s>	9.982808491721688
+<s> It was an earnest , steadfast gaze , but she often doubted whether there were much admiration in it , and sometimes it seemed nothing but absence of mind . </s>	8.55594137519924
+<s> They agreed that Mrs . </s>	12.594847910189511
+<s> " And when her sisters abused it as ugly , she added , with perfect unconcern , " Oh ! </s>	11.827352766843832
+<s> The day of his and Lydia ' s departure soon came , and Mrs . </s>	12.292905524383515
+<s> " " Perhaps he must , if he sees enough of her . </s>	12.342788165174014
+<s> Bingley and Netherfield . </s>	19.071726297954424
+<s> " And accordingly she did turn , and they walked towards the Parsonage together . </s>	12.81340282059881
+<s> Elizabeth would not observe her ; and when at last Kitty did , she very innocently said , " What is the matter mamma ? </s>	13.562936078302767
+<s> When they parted , Lady Catherine , with great condescension , wished them a good journey , and invited them to come to Hunsford again next year ; and Miss De Bourgh exerted herself so far as to curtsey and hold out her hand to both . </s>	9.479118134240977
+<s> Here , Sarah , come to Miss Bennet this moment , and help her on with her gown . </s>	13.451239345547911
+<s> " While Mary is adjusting her ideas , " he continued , " let us return to Mr . </s>	9.265174646456293
+<s> But what is that to me ? </s>	20.682936799121993
+<s> She knew not how to support herself , and from actual weakness sat down and cried for half an hour . </s>	8.511271268462155
+<s> E . </s>	19.070943938461614
+<s> yes - - the handsomest young lady that ever was seen ; and so accomplished ! </s>	12.205463542598375
+<s> Bennet deigned not to make any reply ; but unable to contain herself , began scolding one of her daughters . </s>	13.190340191749161
+<s> They soon outstripped the others , and when they had reached the carriage , Mr . </s>	11.769277663408703
+<s> How much you must have gone through ! </s>	19.02365032572121
+<s> Bennet sent them word that they could not possibly have the carriage before Tuesday ; and in her postscript it was added , that if Mr . </s>	13.19858363532581
+<s> " " Perhaps it will be as well , if you discourage his coming here so very often . </s>	12.319461913529146
+<s> Gardiner ' s behaviour laid them all under . </s>	11.688868948705881
+<s> I _should_ say , one of her ladyship ' s carriages , for she has several . </s>	15.33310930632169
+<s> " " That is as it happens . </s>	12.148081216772422
+<s> Georgiana ' s reception of them was very civil ; but attended with all that embarrassment which , though proceeding from shyness and the fear of doing wrong , would easily give to those who felt themselves inferior , the belief of her being proud and reserved . </s>	11.536441928010921
+<s> " - - and when she had gone through the whole letter , though scarcely knowing any thing of the last page or two , put it hastily away , protesting that she would not regard it , that she would never look in it again . </s>	12.806861964848785
+<s> She looked at Jane , to see how she bore it ; but Jane was very composedly talking to Bingley . </s>	14.303539527511996
+<s> They came . </s>	23.67003171154537
+<s> Jenkinson was chiefly employed in watching how little Miss De Bourgh ate , pressing her to try some other dish , and fearing she were indisposed . </s>	8.094711987739219
+<s> Every object in the next day ' s journey was new and interesting to Elizabeth ; and her spirits were in a state for enjoyment ; for she had seen her sister looking so well as to banish all fear for her health , and the prospect of her northern tour was a constant source of delight . </s>	11.393894840863966
+<s> " Jane ' s delicate sense of honour would not allow her to speak to Elizabeth privately of what Lydia had let fall ; Elizabeth was glad of it ; - - till it appeared whether her inquiries would receive any satisfaction , she had rather be without a confidante . </s>	9.779870804015008
+<s> To this speech Bingley made no answer ; but his sisters gave it their hearty assent , and indulged their mirth for some time at the expense of their dear friend ' s vulgar relations . </s>	8.665198679167464
+<s> There was nothing of presumption or folly in Bingley , that could provoke his ridicule , or disgust him into silence ; and he was more communicative , and less eccentric than the other had ever seen him . </s>	10.365033122989031
+<s> London : Printed for T . </s>	7.9453729278306895
+<s> But he is an ugly fellow ! </s>	13.529048774320676
+<s> They all paint tables , cover skreens and net purses . </s>	5.016235103996035
+<s> " " Is my father in town ? </s>	14.065995958632293
+<s> On the following Monday , Mrs . </s>	11.18605501365226
+<s> and yet you can treat the mention of his misfortunes with contempt and ridicule . </s>	9.903015655865604
+<s> " This was invitation enough . </s>	11.034327761592715
+<s> Collins too ! </s>	23.43459692017437
+<s> It is unaccountable ! </s>	15.168053614494557
+<s> Wickham too . </s>	26.88642826754115
+<s> Bingley expressed great pleasure in the certainty of seeing Elizabeth again , having still a great deal to say to her , and many enquiries to make after all their Hertfordshire friends . </s>	11.852651824765912
+<s> " " I cannot give you credit for any philosophy of the kind . </s>	11.678813196660462
+<s> Darcy stood near them in silent indignation at such a mode of passing the evening , to the exclusion of all conversation , and was too much engrossed by his own thoughts to perceive that Sir William Lucas was his neighbour , till Sir William thus began . </s>	10.156733381040436
+<s> You will hardly blame me for refusing to comply with this entreaty , or for resisting every repetition of it . </s>	7.482419330389191
+<s> Well , much good may it do them ! </s>	10.541036817959288
+<s> Collins begins to say that he will not have Lizzy . </s>	17.009656443040953
+<s> Bennet ' s being quite unable to sit alone . </s>	10.257883214956978
+<s> It is a pity that great ladies in general are not more like her . </s>	10.39395506138548
+<s> He simpers , and smirks , and makes love to us all . </s>	16.953665804234063
+<s> Some people call him proud ; but I am sure I never saw any thing of it . </s>	9.653499833704853
+<s> This gallantry was not much to the taste of some of his hearers , but Mrs . </s>	16.340195303307617
+<s> We shall have no peace at Longbourn if Lydia does not go to Brighton . </s>	12.020927013044401
+<s> The recollection of what I then said , of my conduct , my manners , my expressions during the whole of it , is now , and has been many months , inexpressibly painful to me . </s>	14.665000211241454
+<s> I know it to be impossible . </s>	18.530265345325727
+<s> Gardiner went away in all the perplexity about Elizabeth and her Derbyshire friend , that had attended her from that part of the world . </s>	13.578825760490759
+<s> " " If it is designedly done , they cannot be justified ; but I have no idea of there being so much design in the world as some persons imagine . </s>	11.389233237636
+<s> when I went away , I am sure I had no more idea of being married till I came back again ! </s>	13.236022676160989
+<s> Well , Jane , make haste and tell us ; make haste , my love . </s>	11.59317868967895
+<s> - - I am most thankful that the discovery is made in time for me to pay my respects to him , which I am now going to do , and trust he will excuse my not having done it before . </s>	10.527131379859313
+<s> Collins , " she added , " that Lizzy shall be brought to reason . </s>	10.564463539555735
+<s> What he means to do , I am sure I know not ; but his excessive distress will not allow him to pursue any measure in the best and safest way , and Colonel Forster is obliged to be at Brighton again to - morrow evening . </s>	10.96568776167347
+<s> In this room they were received by Miss Darcy , who was sitting there with Mrs . </s>	11.169531707669098
+<s> This was exactly as it should be ; for the young man wanted only regimentals to make him completely charming . </s>	13.206241483781493
+<s> I sincerely hope your Christmas in Hertfordshire may abound in the gaieties which that season generally brings , and that your beaux will be so numerous as to prevent your feeling the loss of the three , of whom we shall deprive you . </s>	8.969911538811981
+<s> - - But she had chosen it with her eyes open ; and though evidently regretting that her visitors were to go , she did not seem to ask for compassion . </s>	12.119292150100536
+<s> " said he ; " that is rather singular . </s>	14.571949672162846
+<s> But I am afraid you are giving it a turn which that gentleman did by no means intend ; for he would certainly think the better of me , if under such a circumstance I were to give a flat denial , and ride off as fast as I could . </s>	10.327792595804267
+<s> My aunt ' s intelligence had given me hope , and I was determined at once to know every thing . </s>	14.210517417916202
+<s> " CHAPTER XVIII . </s>	13.175807258598324
+<s> " And with these words he hastily left the room , and Elizabeth heard him the next moment open the front door and quit the house . </s>	8.654306818532238
+<s> Her figure was elegant , and she walked well ; - - but Darcy , at whom it was all aimed , was still inflexibly studious . </s>	13.316188822854258
+<s> Is _her_ husband , is the son of his late father ' s steward , to be his brother ? </s>	15.313430132497757
+<s> " Upon my word , " said Mrs . </s>	9.27815005708391
+<s> " She was a little revived , however , by his bringing back his coffee cup himself ; and she seized the opportunity of saying , " Is your sister at Pemberley still ? </s>	10.05369176169657
+<s> Oh ! </s>	20.64397413815332
+<s> he is the handsomest young man that ever was seen ! </s>	13.801713879469746
+<s> Project Gutenberg is a registered trademark , and may not be used if you charge for the eBooks , unless you receive specific permission . </s>	11.370045422277252
+<s> You tear them to pieces . </s>	15.959864727671258
+<s> He is the kind of man , indeed , to whom I should never dare refuse any thing , which he condescended to ask . </s>	13.486849386511965
+<s> She is unfortunately of a sickly constitution , which has prevented her making that progress in many accomplishments , which she could not otherwise have failed of ; as I am informed by the lady who superintended her education , and who still resides with them . </s>	8.181441793878658
+<s> Bennet the next morning , but the post came in without bringing a single line from him . </s>	9.006949798991583
+<s> Her behaviour to my dear Charlotte is charming . </s>	17.363428533644807
+<s> What a triumph for him , as she often thought , could he know that the proposals which she had proudly spurned only four months ago , would now have been gladly and gratefully received ! </s>	10.392475120119121
+<s> His father , Miss Bennet , the late Mr . </s>	15.895321022173933
+<s> But make a virtue of it by all means . </s>	14.00994325150313
+<s> She retreated from the window , fearful of being seen ; and as she walked up and down the room , endeavouring to compose herself , saw such looks of enquiring surprise in her uncle and aunt , as made every thing worse . </s>	9.748722265245492
+<s> You were disgusted with the women who were always speaking and looking , and thinking for _your_ approbation alone . </s>	9.860555732973758
+<s> " " And did Colonel Forster appear to think ill of Wickham himself ? </s>	10.41249429270679
+<s> " This is wholly unexpected . </s>	11.567672366194495
+<s> Collins met for breakfast a few minutes before the others appeared ; and he took the opportunity of paying the parting civilities which he deemed indispensably necessary . </s>	8.368309589289717
+<s> Nothing occurred between them that could justify the hopes of his sister . </s>	12.61149258830189
+<s> - - He can have nothing to say to me that any body need not hear . </s>	14.466002255386233
+<s> The bride and her mother could neither of them talk fast enough ; and Wickham , who happened to sit near Elizabeth , began enquiring after his acquaintance in that neighbourhood , with a good humoured ease , which she felt very unable to equal in her replies . </s>	11.49778192166925
+<s> " In Meryton they parted ; the two youngest repaired to the lodgings of one of the officers ' wives , and Elizabeth continued her walk alone , crossing field after field at a quick pace , jumping over stiles and springing over puddles with impatient activity , and finding herself at last within view of the house , with weary ancles , dirty stockings , and a face glowing with the warmth of exercise . </s>	7.053706235476362
+<s> " " Not at all , " he replied ; " they were brightened by the exercise . </s>	11.541410932272857
+<s> You know I have . </s>	22.79850984670909
+<s> Collins ' s conversation to herself . </s>	12.122542338670861
+<s> The rest of the evening brought her little amusement . </s>	12.243687437608784
+<s> " You excel so much in the dance , Miss Eliza , that it is cruel to deny me the happiness of seeing you ; and though this gentleman dislikes the amusement in general , he can have no objection , I am sure , to oblige us for one half hour . </s>	9.991168726436912
+<s> Darcy half as well as I do my dear Wickham , you must be very happy . </s>	16.73636477396871
+<s> I can remember some expressions which might justly make you hate me . </s>	7.467563802540851
+<s> Among those who are at all his equals in consequence , he is a very different man from what he is to the less prosperous . </s>	13.976242527147361
+<s> The rain continued the whole evening without intermission ; Jane certainly could not come back . </s>	9.539856582471394
+<s> I do not know the particulars , but I know very well that Mr . </s>	11.679872630049521
+<s> I was very uncomfortable , I may say unhappy . </s>	15.021460328046144
+<s> I promised them so faithfully ! </s>	11.65542637258265
+<s> Collins took his station between his cousin Elizabeth and Mrs . </s>	9.097007671827186
+<s> - - Pleased with the preference of one , and offended by the neglect of the other , on the very beginning of our acquaintance , I have courted prepossession and ignorance , and driven reason away , where either were concerned . </s>	12.821645540521445
+<s> yes - - I understand you perfectly . </s>	15.064781190722616
+<s> He is a pleasant fellow , and would jilt you creditably . </s>	11.150577977322156
+<s> If you received the work electronically , the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund . </s>	9.147738865292483
+<s> " thought Elizabeth . </s>	18.077169559828693
+<s> " You look pale . </s>	13.204940007312508
+<s> Bingley ? </s>	36.3581744052278
+<s> An express came at twelve last night , just as we were all gone to bed , from Colonel Forster , to inform us that she was gone off to Scotland with one of his officers ; to own the truth , with Wickham ! </s>	11.273845178514806
+<s> That is the place to get husbands . </s>	20.521781540143532
+<s> " would they often exclaim in the bitterness of woe . </s>	8.769452736396252
+<s> " " I have never heard him say so ; but it is probable that he may spend very little of his time there in future . </s>	10.857994356770512
+<s> But he is a liberal master , I suppose , and _that_ in the eye of a servant comprehends every virtue . </s>	14.316477577982347
+<s> He then asked her to walk into the house - - but she declared herself not tired , and they stood together on the lawn . </s>	12.91477192756281
+<s> It makes me very nervous and poorly , to be thwarted so in my own family , and to have neighbours who think of themselves before anybody else . </s>	9.598092470189938
+<s> " " You make me laugh , Charlotte ; but it is not sound . </s>	10.748236338676284
+<s> By nature inoffensive , friendly and obliging , his presentation at St . </s>	6.4930300672760906
+<s> " My dearest child , " she cried , " I can think of nothing else ! </s>	12.883052344919392
+<s> To be fond of dancing was a certain step towards falling in love ; and very lively hopes of Mr . </s>	10.277162586421145
+<s> It is of all subjects my delight . </s>	12.870182438190207
+<s> " " Yes , and her petticoat ; I hope you saw her petticoat , six inches deep in mud , I am absolutely certain ; and the gown which had been let down to hide it , not doing its office . </s>	8.676867432781957
+<s> Our poor mother is sadly grieved . </s>	10.127824923425084
+<s> " Only think of its being three months , " she cried , " since I went away ; it seems but a fortnight I declare ; and yet there have been things enough happened in the time . </s>	12.419997830527102
+<s> Darcy drew his chair a little towards her , and said , " _You_ cannot have a right to such very strong local attachment . </s>	11.088444264260271
+<s> Bennet with a degree of civility , which made her two daughters ashamed , especially when contrasted with the cold and ceremonious politeness of her curtsey and address to his friend . </s>	10.73150319137333
+<s> - - But there were other causes of repugnance ; - - causes which , though still existing , and existing to an equal degree in both instances , I had myself endeavoured to forget , because they were not immediately before me . </s>	8.644201890284986
+<s> Good Heaven ! </s>	21.00658906346268
+<s> Heaven forbid ! </s>	22.97523849555123
+<s> Her enquiries after her sister were not very favourably answered . </s>	15.333542317223099
+<s> His attachment excited gratitude , his general character respect ; but she could not approve him ; nor could she for a moment repent her refusal , or feel the slightest inclination ever to see him again . </s>	8.607686982673657
+<s> Heaven and earth ! </s>	15.779595453658876
+<s> But when they had withdrawn , he said to her , " Mrs . </s>	16.088219088175002
+<s> I was in the middle before I knew that I _had_ begun . </s>	15.172681131631736
+<s> " " Perhaps , " said Darcy , " I should have judged better , had I sought an introduction , but I am ill qualified to recommend myself to strangers . </s>	9.562649527389484
+<s> Darcy , that you hardly ever forgave , that your resentment once created was unappeasable . </s>	9.01445667120997
+<s> " Miss Bennet paused a little and then replied , " Surely there can be no occasion for exposing him so dreadfully . </s>	9.841667029566628
+<s> " " You are then resolved to have him ? </s>	12.10474885881854
+<s> " Lydia declared herself satisfied . </s>	11.489496443311342
+<s> " cried Elizabeth ; " but how could _that_ be ? </s>	9.462931881139006
+<s> They ran through the vestibule into the breakfast room ; from thence to the library ; - - their father was in neither ; and they were on the point of seeking him up stairs with their mother , when they were met by the butler , who said , " If you are looking for my master , ma ' am , he is walking towards the little copse . </s>	11.34818046397938
+<s> She got up , and ran out of the room ; and returned no more , till she heard them passing through the hall to the dining - parlour . </s>	12.64813741536241
+<s> Bingley had been a most delightful friend ; so easily guided that his worth was invaluable ; but she checked herself . </s>	10.236772371255029
+<s> " " Your list of the common extent of accomplishments , " said Darcy , " has too much truth . </s>	11.075114602665716
+<s> Upon my honour , I never met with so many pleasant girls in my life , as I have this evening ; and there are several of them you see uncommonly pretty . </s>	12.649190628960074
+<s> Darcy . </s>	19.27208551775175
+<s> To Rosings he then hastened to console Lady Catherine , and her daughter ; and on his return , brought back , with great satisfaction , a message from her Ladyship , importing that she felt herself so dull as to make her very desirous of having them all to dine with her . </s>	10.991291107922683
+<s> With _them_ he is remarkably agreeable . </s>	13.554856541064721
+<s> Darcy should hear the first raptures of her joy , than the first vehemence of her disapprobation . </s>	15.348200897257003
+<s> When dinner was over , she returned directly to Jane , and Miss Bingley began abusing her as soon as she was out of the room . </s>	13.054695013454003
+<s> Gardiner ' s former residence , and where she had lately learned that some acquaintance still remained , they bent their steps , after having seen all the principal wonders of the country ; and within five miles of Lambton , Elizabeth found from her aunt , that Pemberley was situated . </s>	10.229999236143394
+<s> " Come , Darcy , " said he , " I must have you dance . </s>	13.13339052450808
+<s> what felicity ! </s>	23.23936788122572
+<s> " " I never saw any one so shocked . </s>	10.023802641657308
+<s> - - If my vanity had taken a musical turn , you would have been invaluable , but as it is , I would really rather not sit down before those who must be in the habit of hearing the very best performers . </s>	9.461995410079243
+<s> are sufficiently known . </s>	13.584766488574807
+<s> Stupid men are the only ones worth knowing , after all . </s>	10.735435569587974
+<s> " " Lizzy , " said her father , " I have given him my consent . </s>	10.832353117230511
+<s> Collins ! </s>	30.554592751571352
+<s> Only think what an establishment it would be for one of them . </s>	12.157863816437645
+<s> To fortune I am perfectly indifferent , and shall make no demand of that nature on your father , since I am well aware that it could not be complied with ; and that one thousand pounds in the <NUM> per cents . </s>	12.043978667138852
+<s> " - - cried Elizabeth . </s>	16.546011376256295
+<s> It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement . </s>	8.0190594556553
+<s> I thought it my duty to give the speediest intelligence of this to my cousin , that she and her noble admirer may be aware of what they are about , and not run hastily into a marriage which has not been properly sanctioned . </s>	11.241619602760005
+<s> " If I , " said Mr . </s>	12.57756792625619
+<s> " " Lady Catherine has been of infinite use , which ought to make her happy , for she loves to be of use . </s>	11.493657095464883
+<s> That he was _surprised_ by the connexion was evident ; he sustained it however with fortitude , and so far from going away , turned back with them , and entered into conversation with Mr . </s>	9.875322738619754
+<s> You have a sweet room here , Mr . </s>	11.503598526330919
+<s> " It keeps him in good humour , " said she , " and I am more obliged to you than I can express . </s>	11.591445474351227
+<s> He arranges the business just as he pleases . </s>	11.874583780571793
+<s> came on into Hertfordshire , anxiously renewing them at all the turnpikes , and at the inns in Barnet and Hatfield , but without any success , no such people had been seen to pass through . </s>	9.36979379864922
+<s> " " Good heavens ! </s>	12.047601665306196
+<s> - - A glass of wine ; - - shall I get you one ? </s>	8.696273505949359
+<s> I always thought they were very unfit to have the charge of her ; but I was over - ruled , as I always am . </s>	13.136108232602595
+<s> My uncle and aunt and I were to go together ; and the others were to meet us at the church . </s>	16.821811216788586
+<s> Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U . </s>	7.1190226794320015
+<s> ( Robert William ) Chapman This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever . </s>	4.851573804473957
+<s> It is because he will not give himself the trouble . </s>	15.41031114842092
+<s> Bingley returned Mr . </s>	15.393480647678802
+<s> Imprudent as a marriage between Mr . </s>	14.588207566007187
+<s> Darcy , who never looks at any woman but to see a blemish , and who probably never looked at _you_ in his life ! </s>	11.2389760264425
+<s> As for my fair cousins , though my absence may not be long enough to render it necessary , I shall now take the liberty of wishing them health and happiness , not excepting my cousin Elizabeth . </s>	9.33819974510559
+<s> Collins so before you came . </s>	15.384741976852176
+<s> But tell me , what did you come down to Netherfield for ? </s>	17.339686432256308
+<s> " Elizabeth smiled . </s>	17.650871846941815
+<s> " The astonishment of the ladies was just what he wished ; that of Mrs . </s>	12.378249186757456
+<s> You had better return to your partner and enjoy her smiles , for you are wasting your time with me . </s>	10.427278039871217
+<s> No man of common humanity , no man who had any value for his character , could be capable of it . </s>	13.479832964244848
+<s> I know you will contrive it all . </s>	13.313359313568796
 <s> Unwilling as she was to admit an idea so destructive of Jane ' s happiness , and so dishonourable to the stability of her lover , she could not prevent its frequently recurring . </s>	10.876302114372422
 <s> She knew not what to think , nor how to account for it . </s>	11.819906300519566
 <s> She examined into their employments , looked at their work , and advised them to do it differently ; found fault with the arrangement of the furniture , or detected the housemaid in negligence ; and if she accepted any refreshment , seemed to do it only for the sake of finding out that Mrs . </s>	9.103329089446522
@@ -20,7 +694,6 @@
 <s> Darcy had considerable patronage in the church , and his cousin could have none at all . </s>	12.952560247811599
 <s> I have nothing either to hope or fear , and nothing to reproach him with . </s>	12.95350367765295
 <s> " Well , well , " said he , " do not make yourself unhappy . </s>	11.791485111296156
-<s> " Oh ! </s>	11.534323408275926
 <s> Any place would do , of about three or four hundred a year ; but , however , do not speak to Mr . </s>	12.23329409369012
 <s> Bingley when he comes into the neighbourhood . </s>	18.46519503638895
 <s> " " You expect me to account for opinions which you chuse to call mine , but which I have never acknowledged . </s>	10.966338988811977
@@ -43,10 +716,8 @@
 <s> But however he did not . </s>	14.506317079250929
 <s> D . </s>	40.646206084100406
 <s> Darcy would never have hazarded such a proposal , if he had not been well assured of his cousin ' s corroboration . </s>	11.8796172268141
-<s> F . </s>	21.371727463944577
 <s> You must not disappoint your father . </s>	12.153673000890564
 <s> " - - " My dear Madam , " replied he , " let us be for ever silent on this point . </s>	12.584353879647017
-<s> <NUM> . </s>	16.712726942875463
 <s> There is not a finer county in England than Derbyshire . </s>	9.380243636750157
 <s> It is impossible that he should still love me . </s>	10.922854340746762
 <s> - - _I_ shall not be able to keep you - - and so I warn you . </s>	10.793829903306968
@@ -72,7 +743,6 @@
 <s> The dear colonel rallied his spirits tolerably till just at last ; but Darcy seemed to feel it most acutely , more I think than last year . </s>	8.411145236100175
 <s> Allow me to say , Lady Catherine , that the arguments with which you have supported this extraordinary application , have been as frivolous as the application was ill - judged . </s>	10.984706446846845
 <s> nonsense , how can you talk so ! </s>	14.7865684037671
-<s> " " Oh ! </s>	8.250615814056024
 <s> Darcy was punctual in his return , and as Lydia informed you , attended the wedding . </s>	14.260818843325545
 <s> It suddenly struck her that it might be from lady Catherine ; and she anticipated with dismay all the consequent explanations . </s>	10.918263912027811
 <s> Miss Bingley warmly resented the indignity he had received , in an expostulation with her brother for talking such nonsense . </s>	9.852166268276141
@@ -91,7 +761,6 @@
 <s> Gardiner , who was not a great walker , could go no farther , and thought only of returning to the carriage as quickly as possible . </s>	11.587790733684459
 <s> Hurst reminded his sister - in - law of the card - table - - but in vain . </s>	10.224732929661402
 <s> " At that moment they were met from another walk , by Mrs . </s>	11.646189431279367
-<s> " " Oh , yes ! </s>	8.555623679435833
 <s> They will then join his regiment , unless they are first invited to Longbourn ; and I understand from Mrs . </s>	9.829636447036062
 <s> ' Ah ! </s>	18.200307829098865
 <s> Till the next morning , however , she was not aware of all the felicity of her contrivance . </s>	14.38535658990685
@@ -100,7 +769,6 @@
 <s> You will not think of quitting it in a hurry I hope , though you have but a short lease . </s>	14.076215917071693
 <s> Bennet gone away , and I know he will fight Wickham , wherever he meets him , and then he will be killed , and what is to become of us all ? </s>	12.773086870958034
 <s> " Where is your sister ? </s>	18.932621455860147
-<s> " Mrs . </s>	12.336764122025857
 <s> Elizabeth noticed every sentence conveying the idea of uneasiness , with an attention which it had hardly received on the first perusal . </s>	11.340248017019562
 <s> But I will endeavour to banish every painful thought , and think only of what will make me happy , your affection , and the invariable kindness of my dear uncle and aunt . </s>	11.377293293352363
 <s> He wrote me a few lines on Wednesday , to say that he had arrived in safety , and to give me his directions , which I particularly begged him to do . </s>	11.48706517594266
@@ -113,15 +781,12 @@
 <s> Bingley will be very glad to see you ; and I will send a few lines by you to assure him of my hearty consent to his marrying which ever he chuses of the girls ; though I must throw in a good word for my little Lizzy . </s>	12.705863152133103
 <s> When have you been prevented by want of money from going wherever you chose , or procuring any thing you had a fancy for ? </s>	10.138194933735274
 <s> Elizabeth tried to be diverted by them ; but all sense of pleasure was lost in shame . </s>	12.137849937159524
-<s> CHAPTER I . </s>	19.072162579206406
 <s> Well , how pleased I am ! </s>	21.15776631527136
 <s> Collins did not think it right to press the subject , from the danger of raising expectations which might only end in disappointment ; for in her opinion it admitted not of a doubt , that all her friend ' s dislike would vanish , if she could suppose him to be in her power . </s>	11.056911523107493
 <s> " - - And then , with a slight bow , turned again into the plantation , and was soon out of sight . </s>	12.449988802231958
 <s> had I known what I ought , what I dared , to do ! </s>	15.958675254303621
 <s> Her performance on the piano - forte is exquisite . </s>	9.029456933452682
-<s> E . </s>	19.070943938461614
 <s> A most delightful place ! </s>	15.071426964986188
-<s> " Mr . </s>	10.513811381754909
 <s> but no one can throw any blame on them . </s>	8.715203535755693
 <s> Darcy is over , I presume , " said Miss Bingley ; - - " and pray what is the result ? </s>	14.676788867097635
 <s> He must write his own sermons ; and the time that remains will not be too much for his parish duties , and the care and improvement of his dwelling , which he cannot be excused from making as comfortable as possible . </s>	10.426392860112392
@@ -149,7 +814,6 @@
 <s> The next morning , however , made an alteration ; for in a quarter of an hour ' s tête - à - tête with Mrs . </s>	9.024967878780743
 <s> Lady Catherine approached , and , after listening for a few minutes , said to Darcy , " Miss Bennet would not play at all amiss , if she practised more , and could have the advantage of a London master . </s>	12.901631339781584
 <s> " " She will drop the acquaintance entirely . </s>	10.526050923701886
-<s> Mrs . </s>	13.500048752785482
 <s> " " Yes , " replied Darcy , who could contain himself no longer , " but _that_ was only when I first knew her , for it is many months since I have considered her as one of the handsomest women of my acquaintance . </s>	11.478783934764886
 <s> When Mrs . </s>	20.79286084649279
 <s> He was her dear Wickham on every occasion ; no one was to be put in competition with him . </s>	11.024208076806518
@@ -294,7 +958,6 @@
 <s> " As it happened that Elizabeth had _much_ rather not , she endeavoured in her answer to put an end to every intreaty and expectation of the kind . </s>	11.180365056709059
 <s> Bennet was alone , than she likewise began on the subject , calling on Miss Lucas for her compassion , and entreating her to persuade her friend Lizzy to comply with the wishes of all her family . </s>	11.791363561655514
 <s> Now , seriously , what have you ever known of self - denial and dependence ? </s>	8.12894676801893
-<s> Darcy . </s>	19.27208551775175
 <s> " Wickham , perhaps , is my favourite ; but I think I shall like _your_ husband quite as well as Jane ' s . </s>	12.165036793604747
 <s> " " I wish it may . </s>	11.426457949543043
 <s> I grieve to find , however , that Colonel F . </s>	13.533860688581704
@@ -365,7 +1028,6 @@
 <s> - - Can he be a sensible man , sir ? </s>	11.349061394961158
 <s> - - You will never recommend yourself to his friend by so doing . </s>	11.491870366167328
 <s> The children have been wanting me this half hour . </s>	10.745782078553098
-<s> and Mrs . </s>	9.911990597012519
 <s> " " How unfortunate that you should have used such very strong expressions in speaking of Wickham to Mr . </s>	7.857390141065141
 <s> Such doings discomposed Mr . </s>	10.333902464302883
 <s> Philips , was an amiable , intelligent , elegant woman , and a great favourite with all her Longbourn nieces . </s>	13.705668299656843
@@ -424,7 +1086,6 @@
 <s> She is well , and begs to be dutifully remembered to you and her mother . </s>	17.259063697118417
 <s> Wickham were returned , and to lament over his absence from the Netherfield ball . </s>	12.96276809184315
 <s> The world has been deceived in that respect ; and I am happy to say , there will be some little money , even when all his debts are discharged , to settle on my niece , in addition to her own fortune . </s>	12.661866998737306
-<s> Wickham . </s>	24.363976562051075
 <s> I know you will do him such ample justice , that I am growing every moment more unconcerned and indifferent . </s>	8.809399289574083
 <s> But here he was set right by Mrs . </s>	10.466689331461527
 <s> Collins sat down to quadrille ; and as Miss De Bourgh chose to play at cassino , the two girls had the honour of assisting Mrs . </s>	9.39401510067985
@@ -636,12 +1297,10 @@
 <s> In a fortnight they were to go , and once gone , she hoped there could be nothing more to plague her on his account . </s>	15.065482668218904
 <s> " - - said Jane faintly smiling , - - " You must know that though I should be exceedingly grieved at their disapprobation , I could not hesitate . </s>	11.54802247196953
 <s> " Not yet , however , in spite of her disappointment in her husband , did Mrs . </s>	14.269864798842947
-<s> Collins ! </s>	30.554592751571352
 <s> " " My real purpose was to see _you_ , and to judge , if I could , whether I might ever hope to make you love me . </s>	12.719405697894857
 <s> There are few people whom I really love , and still fewer of whom I think well . </s>	12.382530954099375
 <s> I hope she will turn out well . </s>	12.525918918394458
 <s> His behaviour to myself has been scandalous ; but I verily believe I could forgive him any thing and every thing , rather than his disappointing the hopes and disgracing the memory of his father . </s>	8.96784075562676
-<s> But Mrs . </s>	18.01884524365123
 <s> Every kind of pride must revolt from the connection . </s>	12.866017719561771
 <s> He then handed her in , Maria followed , and the door was on the point of being closed , when he suddenly reminded them , with some consternation , that they had hitherto forgotten to leave any message for the ladies of Rosings . </s>	11.138088103005696
 <s> I knew how it would be . </s>	15.31835824383687
@@ -785,7 +1444,6 @@
 <s> CHAPTER XVIII . </s>	18.215835718365295
 <s> Bingley , and he was looked at with great admiration for about half the evening , till his manners gave a disgust which turned the tide of his popularity ; for he was discovered to be proud , to be above his company , and above being pleased ; and not all his large estate in Derbyshire could then save him from having a most forbidding , disagreeable countenance , and being unworthy to be compared with his friend . </s>	9.942294236748909
 <s> " She would not give him time to reply , but hurrying instantly to her husband , called out as she entered the library , " Oh ! </s>	12.779082918979583
-<s> Long . </s>	33.49756900189395
 <s> But it must not , shall not be . </s>	18.302013167413257
 <s> He seemed astonished too on finding her alone , and apologised for his intrusion , by letting her know that he had understood all the ladies to be within . </s>	12.133372742494378
 <s> Bennet was so odd a mixture of quick parts , sarcastic humour , reserve , and caprice , that the experience of three and twenty years had been insufficient to make his wife understand his character . </s>	8.303229111606981
@@ -839,7 +1497,6 @@
 <s> But with such a father and mother , and such low connections , I am afraid there is no chance of it . </s>	12.650212546833764
 <s> If I was to go through the world , I could not meet with a better . </s>	20.747033829086973
 <s> Darcy gave him a voluntary promise of providing for me , I am convinced that he felt it to be as much a debt of gratitude to _him_ , as of affection to myself . </s>	10.532726060801822
-<s> Oh ! </s>	20.64397413815332
 <s> " Lizzy , you must not do so . </s>	15.746207790998401
 <s> " Elizabeth was at no loss to understand from whence this deference for her authority proceeded ; but it was not in her power to give any information of so satisfactory a nature , as the compliment deserved . </s>	10.154873318263267
 <s> " " It would not be easy , indeed , to catch their expression , but their colour and shape , and the eye - lashes , so remarkably fine , might be copied . </s>	10.19469946928378
@@ -1296,7 +1953,6 @@
 <s> " " Not as you represent it . </s>	10.744214297417258
 <s> They were to be off as soon as possible . </s>	15.555370526514332
 <s> " I am sure , " said she , " I cried for two days together when Colonel Millar ' s regiment went away . </s>	7.392748592642132
-<s> S . </s>	28.691469256981947
 <s> Her astonishment at his coming - - at his coming to Netherfield , to Longbourn , and voluntarily seeking her again , was almost equal to what she had known on first witnessing his altered behaviour in Derbyshire . </s>	12.162605009744459
 <s> " Elizabeth was pleased to find his memory so exact ; and he afterwards took occasion to ask her , when unattended to by any of the rest , whether _all_ her sisters were at Longbourn . </s>	10.036542451076789
 <s> " " It will be no use to us , if twenty such should come since you will not visit them . </s>	10.428106177737682
@@ -1733,7 +2389,6 @@
 <s> If I wished to think slightingly of any body ' s children , it should not be of my own however . </s>	17.54833315601643
 <s> " " How should you have liked making sermons ? </s>	11.211901548554152
 <s> E below . </s>	22.367130805439302
-<s> Gardiner . </s>	25.979178687057637
 <s> " For we must attribute this happy conclusion , " she added , " in a great measure , to his kindness . </s>	11.930250549909355
 <s> " " Then , my dear , you may have the advantage of your friend , and introduce Mr . </s>	13.634642186518295
 <s> " " Yes , indeed ; his friends may well rejoice in his having met with one of the very few sensible women who would have accepted him , or have made him happy if they had . </s>	11.456058767057208
@@ -2191,7 +2846,6 @@
 <s> - - Yes , she will do for him very well . </s>	17.929872896490956
 <s> Darcy , I am sure , " said Miss Bingley ; " and I am inclined to think that you would not wish to see _your sister_ make such an exhibition . </s>	10.30091446968884
 <s> I had narrowly observed her during the two visits which I had lately made her here ; and I was convinced of her affection . </s>	13.822493086160524
-<s> Good bye . </s>	20.891744421499137
 <s> Wickham had accepted their uncle ' s invitation , and was then in the house . </s>	16.29820274659016
 <s> Has he deigned to add ought of civility to his ordinary style ? </s>	9.212693555124632
 <s> " " Let me write for you , " said Jane , " if you dislike the trouble yourself . </s>	11.418558210799558
@@ -2431,7 +3085,6 @@
 <s> Since her father ' s death , her home has been London , where a lady lives with her , and superintends her education . </s>	12.772267958179349
 <s> How much sooner one tires of any thing than of a book ! </s>	12.547903163716168
 <s> Charlotte did not stay much longer , and Elizabeth was then left to reflect on what she had heard . </s>	14.25568251495783
-<s> London : Printed for T . </s>	7.9453729278306895
 <s> Darcy is so violent , that it would be the death of half the good people in Meryton , to attempt to place him in an amiable light . </s>	13.178747177224066
 <s> See paragraph <NUM> . </s>	12.136240652535399
 <s> It was the favourite wish of _his_ mother , as well as of her ' s . </s>	13.594775011894129
@@ -2466,7 +3119,6 @@
 <s> A most welcome negative followed the last question - - and her alarms being now removed , she was at leisure to feel a great deal of curiosity to see the house herself ; and when the subject was revived the next morning , and she was again applied to , could readily answer , and with a proper air of indifference , that she had not really any dislike to the scheme . </s>	10.754590636041312
 <s> " CHAPTER VI . </s>	14.628341595052238
 <s> " " _That_ is his notion of christian forgiveness ! </s>	7.574687186275641
-<s> " " Mr . </s>	9.224728680659858
 <s> During dinner , Mr . </s>	15.244522013269178
 <s> Elizabeth looked expressively at Lydia ; but she , who never heard nor saw any thing of which she chose to be insensible , gaily continued , " Oh ! </s>	10.910887557359958
 <s> <NUM> or <NUM> . </s>	14.222491245111708
@@ -2554,7 +3206,6 @@
 <s> It is a grievous affair to my poor girls , you must confess . </s>	12.2791604668306
 <s> Darcy , and reading in her neighbours ' looks their equal amazement in beholding it . </s>	8.232580249394047
 <s> But , Lizzy , you look as if you did not enjoy it . </s>	12.861046328728932
-<s> In Three Volumes . </s>	11.294327966920553
 <s> " " Your first position is false . </s>	7.5324668364198635
 <s> Will you tell me how long you have loved him ? </s>	13.21288494129752
 <s> But I am particularly attached to these young men ; and know them to be so much attached to me ! </s>	13.392990677716329
@@ -2588,7 +3239,6 @@
 <s> A clear ten thousand per annum . </s>	9.688398219443872
 <s> - - It is impossible . </s>	14.760544928171699
 <s> I cannot but wonder , however , at her having any such fears now , because , if he had at all cared about me , we must have met long , long ago . </s>	12.639313917234801
-<s> CHAPTER XIX . </s>	16.73391323709303
 <s> A small sum could not do all this . </s>	15.211053542064601
 <s> You wanted me , I know , to say ' Yes , ' that you might have the pleasure of despising my taste ; but I always delight in overthrowing those kind of schemes , and cheating a person of their premeditated contempt . </s>	11.344347544861915
 <s> Very few days passed in which Mr . </s>	13.384169028544028
@@ -3000,7 +3650,6 @@
 <s> She had known , it seems , of their being in love with each other , many weeks . </s>	14.104232287126239
 <s> " Believe me , my dear Miss Elizabeth , that your modesty , so far from doing you any disservice , rather adds to your other perfections . </s>	9.408311789418232
 <s> But the horror of what might possibly happen , almost took from me my faculties . </s>	7.774171582832813
-<s> - - Mr . </s>	11.872077098849026
 <s> " This was not very consoling to Mrs . </s>	10.636511406748935
 <s> I will put on my things in a moment . </s>	13.462154045824864
 <s> Nothing could give either Bingley or myself more delight . </s>	7.860198638188879
@@ -3392,7 +4041,6 @@
 <s> " " No governess ! </s>	11.916272354348234
 <s> Not a syllable was uttered by either ; and Elizabeth was on the point of going away again , when Bingley , who as well as the other had sat down , suddenly rose , and whispering a few words to her sister , ran out of the room . </s>	10.969498776198245
 <s> Bennet and Kitty walked off , and as soon as they were gone Mr . </s>	11.848904389081119
-<s> I . </s>	25.149410741981846
 <s> " I admire all my three sons - in - law highly , " said he . </s>	8.119486418300308
 <s> She certainly did not hate him . </s>	14.93058667777877
 <s> and to see dear Wickham too ! </s>	21.710642343619657
@@ -3657,7 +4305,6 @@
 <s> Elizabeth most thankfully consented , and a servant was dispatched to Longbourn to acquaint the family with her stay , and bring back a supply of clothes . </s>	9.311153955910795
 <s> " Well , Lizzy , " continued her mother soon afterwards , " and so the Collinses live very comfortable , do they ? </s>	12.551920599516565
 <s> " Elizabeth could not but look surprised . </s>	10.564344666935249
-<s> " CHAPTER XVIII . </s>	13.175807258598324
 <s> " " Laugh as much as you chuse , but you will not laugh me out of my opinion . </s>	11.742756867202976
 <s> " And of this place , " thought she , " I might have been mistress ! </s>	16.71565496513757
 <s> They were ignorant , idle , and vain . </s>	14.045782810319457
@@ -3756,7 +4403,6 @@
 <s> She looked at his two sisters , and saw them making signs of derision at each other , and at Darcy , who continued however impenetrably grave . </s>	9.392216086316656
 <s> I am afraid he has been very imprudent , and has deserved to lose Mr . </s>	10.650080831685706
 <s> She was of great use and comfort to us all , and lady Lucas has been very kind ; she walked here on Wednesday morning to condole with us , and offered her services , or any of her daughters , if they could be of use to us . </s>	11.423479941453543
-<s> CHAPTER XI . </s>	16.73391323709303
 <s> " " What should not you mind ? </s>	13.761819531346557
 <s> You must write again very soon , and praise him a great deal more than you did in your last . </s>	12.83582233900904
 <s> People who suffer as I do from nervous complaints can have no great inclination for talking . </s>	9.04876229539896
@@ -3988,7 +4634,6 @@
 <s> " cried Miss Bingley , " Charles writes in the most careless way imaginable . </s>	10.703010642376265
 <s> " In vain did Elizabeth attempt to make her reasonable , and Jane to make her resigned . </s>	12.911528564291467
 <s> She was wild to be at home - - to hear , to see , to be upon the spot , to share with Jane in the cares that must now fall wholly upon her , in a family so deranged ; a father absent , a mother incapable of exertion , and requiring constant attendance ; and though almost persuaded that nothing could be done for Lydia , her uncle ' s interference seemed of the utmost importance , and till he entered the room , the misery of her impatience was severe . </s>	12.046270841287631
-<s> Bennet . </s>	22.062598582107732
 <s> " " Colonel Forster did own that he had often suspected some partiality , especially on Lydia ' s side , but nothing to give him any alarm . </s>	10.406164731732503
 <s> They were in fact very fine ladies ; not deficient in good humour when they were pleased , nor in the power of being agreeable where they chose it ; but proud and conceited . </s>	10.638299491304469
 <s> Bingley and Jane remained at Netherfield only a twelvemonth . </s>	12.972874101545257
@@ -4149,7 +4794,6 @@
 <s> He then sat down by her , and talked scarcely to any one else . </s>	14.16371442770504
 <s> They could not be untouched by his politeness , and had they drawn his character from their own feelings , and his servant ' s report , without any reference to any other account , the circle in Hertfordshire to which he was known , would not have recognised it for Mr . </s>	12.077870795792581
 <s> [ Illustration : MATLOCK ] PRIDE AND PREJUDICE : A Novel . </s>	4.647699248884102
-<s> CHAPTER XV . </s>	16.73391323709303
 <s> Forster . </s>	42.507716341738536
 <s> In every thing else she is as good natured a girl as ever lived . </s>	12.104850049340914
 <s> - - Are you much acquainted with Mr . </s>	10.881480004473731
@@ -5602,7 +6246,6 @@
 <s> Bennet this morning that if you ever resolved on quitting Netherfield you should be gone in five minutes , you meant it to be a sort of panegyric , of compliment to yourself - - and yet what is there so very laudable in a precipitance which must leave very necessary business undone , and can be of no real advantage to yourself or any one else ? </s>	10.57434980428135
 <s> You have deprived the best years of his life , of that independence which was no less his due than his desert . </s>	12.17556117523866
 <s> " * * * * * It may be easily believed , that however little of novelty could be added to their fears , hopes , and conjectures , on this interesting subject , by its repeated discussion , no other could detain them from it long , during the whole of the journey . </s>	9.545109728815724
-<s> Bingley ? </s>	36.3581744052278
 <s> " I have found out , " said he , " by a singular accident , that there is now in the room a near relation of my patroness . </s>	11.519936887810552
 <s> It was an encouragement of vice ; and had I been the rector of Longbourn , I should very strenuously have opposed it . </s>	9.12588514936401
 <s> Forster , and Kitty and me , except my aunt , for we were forced to borrow one of her gowns ; and you cannot imagine how well he looked ! </s>	14.89099696856116
